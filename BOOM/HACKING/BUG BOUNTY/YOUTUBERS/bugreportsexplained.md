@@ -1,0 +1,173 @@
+- [ ] $1 mln bounty in Aurora blockchain for no input sanitisation bug.mp4
+- [ ] $1,000 django CSRF protection bypass - Hackerone.mp4
+- [ ] $100k Hacking any website in Safari with uXSS - a 0-day chain.mp4
+- [ ] $10k+5k Web cache poisoning - Github + Firefox - Bug Bounty Reports Explained.mp4
+- [ ] $12,000 Grafana SSRF in Gitlab - Bug Bounty Reports Explained.mp4
+- [ ] $130,000+ Learn New Hacking Technique in 2021 - Dependency Confusion - Bug Bounty Reports Explained.mp4
+- [ ] $15,000 Playstation Now RCE via insecure WebSocket connection - Bug Bounty Reports Explained.mp4
+- [ ] $16k Stealing secrets.yaml from GitLab using stored XSS - Hackerone bug bounty.mp4
+- [ ] $1mln - Generating ETH from thin air - Aurora rainbow bridge withdrawal logic bug.mp4
+- [ ] $2,500 Leaking parts of private Hackerone reports - timeless cross-site leaks.mp4
+- [ ] $20,000 Hackerone data leakage via GraphQL.mp4
+- [ ] $20,000 Misconfigured S3 bucket vulnerability #bugbounty #bugbountytips.mp4
+- [ ] $20,000 RCE in GitLab via 0day in exiftool metadata processing library CVE-2021-22204.mp4
+- [ ] $25,000 Facebook.com postMessage account takeover vulnerability.mp4
+- [ ] $25,000 GitHub pages RCE via YAML file - Bug Bounty Reports Explained.mp4
+- [ ] $25,000 Stealing GitHub API token with a malicious pull request.mp4
+- [ ] $28K Apple Shortcuts IDOR.mp4
+- [ ] $28k IDOR that broke Apple Shortcuts - Apple bug bounty.mp4
+- [ ] $29,000 GitLab - Arbitrary File Read using symlinks.mp4
+- [ ] $3,000 CodeQL query for finding LDAP Injection - Github Security Lab - Hackerone.mp4
+- [ ] $3,133.70 XSS in golang's net_html library - My first Google bug bounty.mp4
+- [ ] $3,200 client-side DoS in PayPal #bugbounty #bugbountytips #bugbountyhunter.mp4
+- [ ] $3,500 Gitlab SSRF by DNS rebinding with bypass explained - Hackerone.mp4
+- [ ] $3,500 Slack SSRF - proxying to internal network via TURN server explained - Hackerone.mp4
+- [ ] $30,000 blind SQL injection chained with blind XSS #bugbounty #bugbountytips #bugbountyhunter.mp4
+- [ ] $30,000 CSRF #bugbounty #bugbountytips #bugbountyhunter.mp4
+- [ ] $31,337 Google Cloud blind SSRF + HANDS-ON labs.mp4
+- [ ] $37,500 Shopify auth bypass - Hackerone.mp4
+- [ ] $4,000 Starbucks secondary context path traversal - Hackerone.mp4
+- [ ] $4,500 Mobile CSRF - bug reported and rewarded twice to Twitter on Hackerone.mp4
+- [ ] $5,000 Gitlab SSRF by DNS rebinding explained - Hackerone.mp4
+- [ ] $5,000 YouTube IDOR - Bug Bounty Reports Explained.mp4
+- [ ] $50,000 0-day RCE on Apple bug bounty program.mp4
+- [ ] $50,000 Shopify access to source code via leaking GitHub token - Hackerone bug bounty.mp4
+- [ ] $6,5k + $5k HTTP Request Smuggling mass account takeover - Slack + Zomato.mp4
+- [ ] $XX,000 Airbnb impossible XSS with 4 bypasses.mp4
+- [ ] 100 hours of bug bounty - I made twice more than as a pentester - Bounty vlog #2.mp4
+- [ ] 100 hours of bug bounty on a public Hackerone program. Bounty vlog #1 - Stripe.mp4
+- [ ] 100 hours of reviewing the source code - Bounty vlog #3 - Elastic.mp4
+- [ ] 2022-style OAuth account takeover on Facebook - $45,000 bug bounty.mp4
+- [ ] A common password reset vulnerability.mp4
+- [ ] A Random $10,000 bug #bugbounty #bugbountytips #bugbountyhunter.mp4
+- [ ] A shorthash collision broke GitHub for everyone #bugbounty #bugbountytips #bugbountyhunter.mp4
+- [ ] Accidentally finding a $50,000 vulnerability - Augusto Zanellato - Bug Bounty Reports Discussed #2.mp4
+- [ ] Adding infinite funds to your Steam wallet - $7,500 bug bounty report.mp4
+- [ ] admin_admin password allowed stealing Teslas around the world.mp4
+- [ ] AI and hacking - opportunities and threats - Joseph “rez0” Thacker.mp4
+- [ ] AmazingCryptoWAF - @LiveOverflow's CTF challenge walkthrough - ALLES! CTF.mp4
+- [ ] Amazingly simple $100k login bypass on Apple.mp4
+- [ ] An overlooked parameter leads to a critical SSRF in Dropbox bug bounty program.mp4
+- [ ] Authentication bypass by copying a cookie from another app.mp4
+- [ ] Being careful with brute-forcing identifiers #bugbounty #bugbountytips #bugbountyhunter.mp4
+- [ ] Bug bounty automation and scaling 0days - Michael Ness - BBRD podcast #4.mp4
+- [ ] Bug bounty_ year 2 - 0days, a $20k bounty and… laziness - bounty vlog #5.mp4
+- [ ] Client-side desync vulnerabilities - a breakthrough in request smuggling techniques.mp4
+- [ ] Client-side path traversal vulnerability class explained - $6,580 GitLab bug bounty.mp4
+- [ ] CodeQL query to detect RCE via ZipSlip - $5,500 bounty from GitHub Security Lab.mp4
+- [ ] Creating a YouTube TV that could steal your private videos - $6,000 CSRF.mp4
+- [ ] Creating custom wordlists feat. @rez0 #bugbounty #bugbountytips #bugbountyhunter.mp4
+- [ ] Critical authentication mistake made by big companies.mp4
+- [ ] Critical Thinking Discord is now available at https___ctbb.show_discord.mp4
+- [ ] CRLF + XSS + cache poisoning = Access to Github private pages for $35k bounty.mp4
+- [ ] Do not forget about this attack scenario #bugbounty #bugbountytips #bugbountyhunter.mp4
+- [ ] Do you need multiple monitors for hacking_.mp4
+- [ ] Do you need to do recon to be successful in bug bounty_.mp4
+- [ ] Easy bounties feat. @NahamSec #bugbounty #bugbountytips #bugbountyhunter.mp4
+- [ ] Encryption does not automagically make your app secure #bugbounty #bugbountytips.mp4
+- [ ] Everything about full-time bug bounty - Justin “rhynorater” Gardner from @criticalthinkingpodcast.mp4
+- [ ] Facebook’s TOP1 bounty hunter about how to not be replaced by AI.mp4
+- [ ] Facebook’s TOP1 bounty hunter doesn’t bother reporting $4,000-$5,000 bugs.mp4
+- [ ] Fake bug bounty writeup exposed #bugbounty #bugbountytips #bugbountyhunter.mp4
+- [ ] Find more clients and improve in pentesting - Cristi Vlad.mp4
+- [ ] Finding bugs in Google VRP without recon - David Schütz - BBRD #01.mp4
+- [ ] First thing to do during source code review #bugbounty #bugbountytips #bugbountyhunter.mp4
+- [ ] From reporting self-XSSes to improving browser security mechanisms - Michał Bentkowski.mp4
+- [ ] From zero to 6-digit bug bounty earnings in 1 year - Johan Carlsson - BBRD podcast #3.mp4
+- [ ] Hacking Facebook in 3 different ways for $54,800 - Bug Bounty Reports Explained.mp4
+- [ ] Hi gregxsunday, f__ you, regards.mp4
+- [ ] How do companies respond to 0days in 3rd party software_.mp4
+- [ ] How does Facebook’s TOP1 bounty hunter choose targets_.mp4
+- [ ] How I found the $1,500 SSRF in Stripe bug bounty program.mp4
+- [ ] How I got into cybersecurity and bug bounty_.mp4
+- [ ] How long does Facebook’s TOP1 hunter stay on one target_.mp4
+- [ ] How much money I made in my 1st year of bug bounty_ Bounty vlog #4.mp4
+- [ ] How not to implement AWS S3 signed URLs_ $25,000 bounty.mp4
+- [ ] How to create personal brand as a beginner_ #bugbounty #bugbountytips #bugbountyhunter.mp4
+- [ ] How to deal with irregular income of bug bounty_ feat. @rhynorater #bugbounty.mp4
+- [ ] How to decide if a bug bounty target is interesting_ feat. @NahamSec.mp4
+- [ ] How to do account takeover_ Case study of 146 bug bounty reports.mp4
+- [ ] How to easily search through Hackerone reports_ #shorts.mp4
+- [ ] How to escape docker container_.mp4
+- [ ] How to find pentesting clients_ #bugbounty #bugbountytips #bugbountyhunter.mp4
+- [ ] How to get greater bounties for MEDIUM and LOW risk reports_ Account takeover - Stripe.mp4
+- [ ] How to hack WordPress_.mp4
+- [ ] How to make a risky decision less scary_ #bugbounty #bugbountytips #bugbountyhunter.mp4
+- [ ] How to monetise a scalable 0day in bug bounty_ #bugbounty #bugbountytips #bugbountyhunter.mp4
+- [ ] How to obtain source code of closed-source products_.mp4
+- [ ] How to setup WordPress for testing_ #bugbounty #bugbountytips #bugbountyhunter.mp4
+- [ ] How to start bug bounty today_.mp4
+- [ ] How to start getting into cybersecurity_ #bugbounty #bugbountytips #bugbountyhunter.mp4
+- [ ] How to turn a write-based path traversal into a critical_ - Bug bounty case study.mp4
+- [ ] How to turn an SQL injection into an RCE_ #bugbounty #bugbountytips #bugbountyhunter.mp4
+- [ ] How to turn SQL injection into an RCE or a file read_ Case study of 128 bug bounty reports.mp4
+- [ ] I finally see the gopher protocol working in real life #bugbounty #bugbountytips #bugbountyhunter.mp4
+- [ ] I quit my IT job for YouTube and bounty - bounty vlog #0.mp4
+- [ ] IDOR - how to predict an identifier_ Bug bounty case study.mp4
+- [ ] Injecting code into any Homebrew Cask by attacking GitHub Actions script.mp4
+- [ ] Inside the Mind of the TOP1 Facebook Bug Bounty Hunter - Youssef Sammouda - BBRD podcast #5.mp4
+- [ ] Is it too late to start bug bounty in 2023_ feat. @NahamSec #bugbounty #bugbountytips.mp4
+- [ ] Is rate limiting a lame bug class_ #bugbounty #bugbountytips #bugbountyhunter.mp4
+- [ ] It recon the magic sauce of top bug bounty hunters_ feat. @NahamSec #bugbounty #bugbountytips.mp4
+- [ ] Local SQL injection in Zoom allowed to spy on people #bugbounty #bugbountytips #bugbountyhunter.mp4
+- [ ] Log4j RCE vulnerability explained with bypass for the initial fix (CVE-2021-44228, CVE-2021-45046).mp4
+- [ ] Many bug hunters forget about this feat. @rez0 #bugbounty #bugbountytips #bugbountyhunter.mp4
+- [ ] MetaMask - stealing ETH by exploiting clickjacking - $120,000 bug bounty.mp4
+- [ ] Monitoring JS files to know first about new features feat. @rhynorater #bugbounty #bugbountytips.mp4
+- [ ] Most important security lessons of 2022 for me.mp4
+- [ ] MS Teams - One message that can install malware on your computer - Bug Bounty Reports Explained.mp4
+- [ ] My $20,000 S3 bug that leaked everyone’s attachments - S3 bucket misconfig of pre-signed URLs.mp4
+- [ ] My first bug bounty #bugbounty #bugbountytips #bugbountyhunter.mp4
+- [ ] My First Bug Bounty - Gitter $1,000 one-click DoS.mp4
+- [ ] My first scalable 0day #bugbounty #bugbountytips #bugbountyhunter.mp4
+- [ ] My XSS code search #bugbounty #bugbountytips #bugbountyhunter.mp4
+- [ ] OAuth vs SAML.mp4
+- [ ] Potential vulnerability in AI chatbots feat. @rez0 #bugbounty #bugbountytips #bugbountyhunter.mp4
+- [ ] Road to Most Valuable Hacker and working while travelling the world - Yassine Aboukir.mp4
+- [ ] Saving time by automating bug bounty reports.mp4
+- [ ] Security source code review expert - Shubham Shah.mp4
+- [ ] Should you strive to become self-employed_.mp4
+- [ ] Shoutout to Bugcrowd support #bugbounty #bugbountytips #bugbountyhunter.mp4
+- [ ] Solving all Web CTF tasks from NahamCon.mp4
+- [ ] Stealing all your cookies from your mobile Firefox browser - Bug Bounty Reports Explained.mp4
+- [ ] Stealing all your passwords from LastPass due to URL parsing vulnerability - $1,000 bounty.mp4
+- [ ] The checklist for beginner pentesters #bugbounty #bugbountytips #bugbountyhunter.mp4
+- [ ] The hardest CTF task I’ve ever done!.mp4
+- [ ] The key to succeed in bug bounty - @NahamSec.mp4
+- [ ] The mentality to learn bug bounty feat. @NahamSec #bugbounty #bugbountytips #bugbountyhunter.mp4
+- [ ] The most common mistake of beginner security researchers_.mp4
+- [ ] The role of sports in life of a top bug bounty hunter.mp4
+- [ ] The world's largest bug bounty - $3.4 mln for a bug in Polygon blockchain.mp4
+- [ ] This bug could crash your Instagram app #bugbounty #bugbountytips #bugbountyhunter.mp4
+- [ ] This is my coolest bug bounty report (SSRF ➡ Phishing).mp4
+- [ ] This top bug bounty hunter only works with a single monitor.mp4
+- [ ] This top bug bounty hunter works while travelling the world.mp4
+- [ ] Time spent on a target feat. @rhynorater #bugbounty #bugbountytips #bugbountyhunter.mp4
+- [ ] Top hunters think about everything when submitting a report #bugbounty #bugbountytips.mp4
+- [ ] Turning a verbose error into an RCE #bugbounty #bugbountytips #bugbountyhunter.mp4
+- [ ] Turning SQL injection in MySQL into file read #bugbounty #bugbountytips #bugbountyhunter.mp4
+- [ ] Very creative way to turn Prototype Pollution into RCE in kibana - Bug Bounty Reports Explained.mp4
+- [ ] Watch out for API use theft when implementing AI chatbots feat. @rez0 #bugbounty #bugbountytips.mp4
+- [ ] What does Shubs pay attention to when recruiting security researchers_.mp4
+- [ ] What Facebook’s TOP1 bounty hunter does differently from other hunters_.mp4
+- [ ] What functionalities are vulnerable to SSRFs_ Case study of 124 bug bounty reports.mp4
+- [ ] What information can be leaked in JS files_.mp4
+- [ ] What is an underrated hacking technique_.mp4
+- [ ] What is CodeQL bug bounty program_.mp4
+- [ ] What people are getting wrong about bug bounty_ feat. @NahamSec #bugbounty #bugbountytips.mp4
+- [ ] What should you automate in bug bounty_ feat. @NahamSec #bugbounty #bugbountytips #bugbountyhunter.mp4
+- [ ] What types of DoS bugs will get you a bounty_ Case study of 138 DoS bug bounty reports.mp4
+- [ ] What's the hardest part of writing a CodeQL query_.mp4
+- [ ] WhatsApp - a malicious GIF that could execute code on your smartphone - Bug Bounty Reports Explained.mp4
+- [ ] What’s the most profitable bug bounty Michael has reported_.mp4
+- [ ] Where are all the RCEs_ RCE case study.mp4
+- [ ] Which XSS payloads get the biggest bounties_ - Case study of 174 reports.mp4
+- [ ] Who should consider a career as a full-time bug bounty hunter_.mp4
+- [ ] Why are there access control bugs in WordPress plugins_ #bugbounty #bugbountytips #bugbountyhunter.mp4
+- [ ] Writing a CodeQL query - the sink.mp4
+- [ ] You don’t always have to predict the identifier #bugbounty #bugbountytips #bugbountyhunter.mp4
+- [ ] You were awarded a $4 bounty feat. @rhynorater #bugbounty #bugbountytips #bugbountyhunter.mp4
+- [ ] ZIION - Set up your web3 testing env with a few clicks.mp4
+- [ ] Zoom - turning on someone's camera using SQL injection vulnerability - Bug Bounty Reports Explained.mp4
+- [ ] [LIVE recording] Explaining the exploit to $31,337 Google Cloud blind SSRF.mp4
+- [ ] _Can I access this report database_” #bugbounty #bugbountytips #bugbountyhunter.mp4

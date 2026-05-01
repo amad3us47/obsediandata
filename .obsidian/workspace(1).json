@@ -1,0 +1,326 @@
+{
+  "main": {
+    "id": "394160bfe82e9bd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d132b5b00752b3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "219fd3721eb5df0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOOM/AI/Machine learning/Unsupervised Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unsupervised Learning"
+            }
+          },
+          {
+            "id": "cb910c3dd7c8b792",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOOM/GITHUB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GITHUB"
+            }
+          },
+          {
+            "id": "0f46ae670dbbadd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOOM/STARTUP/INDIE HACKING/main requirements.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "main requirements"
+            }
+          },
+          {
+            "id": "045a556d3949cb01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOOM/WEB DEV/CLONES/TWITTER/3.Routing but better.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.Routing but better"
+            }
+          },
+          {
+            "id": "8736d3631f853678",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOOM/HACKING/BUG BOUNTY/previous reports/STORED XSS(COOKIE REFLECTED).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "STORED XSS(COOKIE REFLECTED)"
+            }
+          },
+          {
+            "id": "31269441ab3c9ff1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOOM/HACKING/BUG BOUNTY/previous reports/STORED XSS(COOKIE REFLECTED).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "STORED XSS(COOKIE REFLECTED)"
+            }
+          },
+          {
+            "id": "77471bb45117dac9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOOM/AI/Machine learning/Supervised Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Supervised Learning"
+            }
+          },
+          {
+            "id": "cba788c67c76a450",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOOM/HACKING/BUG BOUNTY/previous reports/current.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "current"
+            }
+          },
+          {
+            "id": "f923ab97daf709cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOOM/HACKING/BUG BOUNTY/previous reports/IMPROPER AUTHENTICATION.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IMPROPER AUTHENTICATION"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "19704485fa7d8ae7",
+    "type": "split",
+    "children": [
+      {
+        "id": "759aab270c255419",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78ee5506fd6d3e86",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "61a1282dc8dff4f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cc6aaed842120148",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 731.5
+  },
+  "right": {
+    "id": "5817e203ffa73c8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e4fbd04dc160d54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "431fa94374d2de31",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BOOM/HACKING/BUG BOUNTY/previous reports/current.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for current"
+            }
+          },
+          {
+            "id": "49d4d33ae8b2f9e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "BOOM/HACKING/BUG BOUNTY/PORTSWIGGER ACADEMY/SERVER-SIDE VURNABILITY.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from SERVER-SIDE VURNABILITY"
+            }
+          },
+          {
+            "id": "4a85ac5143eebb31",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bbdde66a87ff75d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "BOOM/HACKING/BUG BOUNTY/PORTSWIGGER ACADEMY/SERVER-SIDE VURNABILITY.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of SERVER-SIDE VURNABILITY"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "cba788c67c76a450",
+  "lastOpenFiles": [
+    "BOOM/HACKING/BUG BOUNTY/previous reports/DENIAL OF SERVICE.md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/WEAK PASSWORD POLICY.md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/REMOTE FILE INCLUSION (UPLOAD).md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/DOM XSS (PATH).md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/DOM XSS.md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/XSS( VIA INVITE EMAIL FRIENDS).md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/XSS(VIA EMAIL)(1).md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/LOGIN CSRF USING OAUTH.md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/current.md",
+    "BOOM/PROGRAMMING/PROGRAMMING LANGUAGE/C/11.sizeof() in C.md",
+    "BOOM/PROGRAMMING/PROGRAMMING LANGUAGE/C/9. TYPE CONVERSION.md",
+    "BOOM/PROGRAMMING/PROGRAMMING LANGUAGE/C/10.GLOBAL VARIABLES AND SCOPE.md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/CSRF ( CREATING ACCOUNT)(2).md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/CSRF ( LOGOUT).md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/PASSWORD CHANGE( EXISTING SESSIONS NOT LOGGED OUT).md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/XSS(TAGS).md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/INFORMATION DISCLOSURE( SPECIAL STRING).md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/CSRF(SWITCHING THE USER TO THE ATTACKER'S ACCOUNT).md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/FULL PATH DISCLOSURE( COOKIE FIELD EMPTY).md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/2FA(DESIGN FLAW).md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/PASSWORD RESET( LINK DOES NOT EXPIRE).md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/OPEN REDIRECT( HOST HEADER).md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/NUMEROUS PORTS ANDSERVICES OPEN.md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/NO RATE LIMITING(LOGIN PAGE).md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/NO WILDCARD DNS.md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/OPEN REDIRECT.md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/Untitled",
+    "BOOM/HACKING/BUG BOUNTY/COURSES/BLACK HAT INJECTION MASTERCLASS",
+    "BOOM/PROGRAMMING/PROGRAMMING LANGUAGE/JAVASCRIPT",
+    "BOOM/CompileSource-min.webp",
+    "BOOM/HACKING/BUG BOUNTY/TRICKS",
+    "BOOM/HACKING/POC GFTO",
+    "BOOM/Pasted image 20240506000916.png",
+    "Pasted image 20250416192606.png",
+    "Pasted image 20250415202526.png",
+    "Pasted image 20250415200222.png",
+    "BOOM/WEB DEV/CLONES/TWITTER",
+    "BOOM/WEB DEV/CLONES/TWITTER",
+    "BOOM/WEB DEV/CLONES",
+    "BOOM/PROGRAMMING/PROGRAMMING LANGUAGE/C",
+    "BOOM/HACKING/LLM-SEC",
+    "Pasted image 20241123042949.png",
+    "BOOM/LinkingObjects-min.webp"
+  ]
+}

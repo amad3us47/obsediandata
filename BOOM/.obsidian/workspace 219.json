@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "90fc043948094e46",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d71bb9a92335500",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cfad4b43dd933af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROGRAMMING LANGUAGE/RUST/Rust(command-line rust).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c28777304212d8c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "90a0d2572d741fd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7376d200b712c9f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b77fb659cf59eb5c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee6147dec65cbae3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c6e4f7608ecba279",
+    "type": "split",
+    "children": [
+      {
+        "id": "3dde48906fe0ab9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "046b663dc0df213f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PROGRAMMING LANGUAGE/RUST/Rust(command-line rust).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9366ddc7f8879222",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PROGRAMMING LANGUAGE/RUST/Rust(command-line rust).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d7a49add804ef114",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9f3892a3e8597018",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PROGRAMMING LANGUAGE/RUST/Rust(command-line rust).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0cfad4b43dd933af",
+  "lastOpenFiles": [
+    "PROGRAMMING LANGUAGE/GO/Go (Black Hat Go).md",
+    "PROGRAMMING LANGUAGE/RUST/Rust(command-line rust).md",
+    "THE MEANING OF LIFE/$~ whoami.md"
+  ]
+}

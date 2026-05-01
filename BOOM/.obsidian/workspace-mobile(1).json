@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "69ca975b2a6b6256",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cd1d8c2f09b1c40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e7668bb2445df8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINUX/Linux Ricing/Bugswriter(youtuber) -  learning.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "e9b966c800df7e13"
+          }
+        ]
+      },
+      {
+        "id": "5f46e598e9b708b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18de32176f122959",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "LINUX/Linux Ricing/Bugswriter(youtuber) -  learning.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 2.0215718855291813,
+                  "close": false
+                }
+              }
+            },
+            "group": "e9b966c800df7e13"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "63c8f21ddaeb8e53",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f9329ace2dc7e8d6",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0a91a20db80d21f6",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b4e32dea53eee039",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "81fa67dbdb5ff731",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "24e750d6814e75d5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c9b8c815081c676d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "LINUX/Linux Ricing/Bugswriter(youtuber) -  learning.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e500a7fd07a0aa8a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "LINUX/Linux Ricing/Bugswriter(youtuber) -  learning.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0192656d718dd114",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "LINUX/Linux Ricing/Bugswriter(youtuber) -  learning.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7e7668bb2445df8d",
+  "lastOpenFiles": [
+    "THE MEANING OF LIFE/$~ whoami.md",
+    "THE MEANING OF LIFE/Motivation.md",
+    "LINUX/Linux Ricing/Bugswriter(youtuber) -  learning.md",
+    "BUG BOUNTY/BUG BOUNTY CHECKLIST 💻/CHECKLIST.md",
+    "[Bug Bounty bootcamp]().md",
+    "BUG BOUNTY/COURSES/ALL COURSES.md",
+    "BUG BOUNTY/Untitled",
+    "AI/Machine learning/Supervised Learning.md",
+    "AI/Machine learning/Unsupervised Learning.md",
+    "AI/Machine learning/What is MACHINE LEARNING.md",
+    "BUG BOUNTY/previous reports/GIF FLOODING.md",
+    "commands.md",
+    "AI/Machine learning",
+    "AI",
+    "BUG BOUNTY/Vulnerable machines/Machines list.md",
+    "BUG BOUNTY/previous reports/CSRF LOGIN.md",
+    "BUG BOUNTY/previous reports/CSP HEADERS MISSING.md",
+    "BUG BOUNTY/previous reports/DNS CACHE OR WEB CACHE.md",
+    "BUG BOUNTY/BOOKS/BOOKS.md",
+    "BUG BOUNTY/jasson haddix/Bug bounty methodlogy.md",
+    "BUG BOUNTY/jasson haddix/Bug bounty methodlogy(1).md",
+    "BUG BOUNTY/Vulnerable machines",
+    "BUG BOUNTY/previous reports",
+    "BUG BOUNTY/BOOKS",
+    "BUG BOUNTY/jasson haddix",
+    "BUG BOUNTY/BUG BOUNTY CHECKLIST 💻",
+    "BUG BOUNTY",
+    "BUG BOUNTY/PORTSWIGGER ACADEMY/courses/hackersera.md",
+    "BUG BOUNTY/PORTSWIGGER ACADEMY/courses/random.md",
+    "BUG BOUNTY/PORTSWIGGER ACADEMY/courses/nahamsec.md",
+    "BUG BOUNTY/PORTSWIGGER ACADEMY/courses/insiderphd.md",
+    "BUG BOUNTY/PORTSWIGGER ACADEMY/courses/bugreportsexplained.md",
+    "BUG BOUNTY/PORTSWIGGER ACADEMY/courses/port swigger.md",
+    "BUG BOUNTY/PORTSWIGGER ACADEMY/courses/rson_live.md",
+    "BUG BOUNTY/PORTSWIGGER ACADEMY/courses",
+    "BUG BOUNTY/PORTSWIGGER ACADEMY/Path Traversal.md",
+    "Pasted image 20240405104208.png",
+    "Pasted image 20240405201138.png",
+    "Pasted image 20240405111101.png",
+    "Pasted image 20240228141937.png",
+    "Pasted image 20240228141628.png",
+    "Pasted image 20240228141251.png",
+    "image.jpg",
+    "Pasted image 20240228141603.png",
+    "image 1.jpg",
+    "Pasted image 20240228141409.png"
+  ]
+}

@@ -1,0 +1,10 @@
+
+There seems to be an open redirection on Uber.com
+
+When a user uses `https://www.uber.com//google.com/cities` it will lead to a `Page Not Found` on the Uber website but if the google.com is changed to an IP address such as `https://www.uber.com//216.58.217.206/[param]` it will lead to either a 404 or an SSL error depending on what kind of website you are trying to reach. But remove the `https://` and now you will be able to reach any website with the IP address. `uber.com//216.58.217.206/calendar` will redirect to Google's Calendar without any of the SSL error or 404 error.
+
+Also for an hyperlink to be activated the attacker can send the URL `http://uber.com//216.58.217.206/calendar` (changing the https -> http)
+
+
+
+https://hackerone.com/reports/119236 - <span style="color:rgb(0, 176, 80)">22 Apr 2016</span> 

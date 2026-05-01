@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "7383d417265447d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c2f9d3179c794cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3d447c39c10a5a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "courses/bugreportsexplained.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4611741ef14c6fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e42985b0aa5dfed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "209032ff1a0554f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9fa570c5d9d55b46",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "98cf7a32c2f8b7db",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "61995b9e7ebaf1ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "66a47e8913f1a9eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c0c2a92ac38fa32",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "courses/bugreportsexplained.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c59a919952c8b147",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "courses/bugreportsexplained.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9c6797d29df4a9fa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "db3ce0d061af8507",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "courses/bugreportsexplained.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "209032ff1a0554f5",
+  "lastOpenFiles": [
+    "courses/bugreportsexplained.md",
+    "courses"
+  ]
+}

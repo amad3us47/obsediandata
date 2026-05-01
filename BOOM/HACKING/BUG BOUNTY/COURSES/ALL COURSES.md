@@ -1,0 +1,88 @@
+- [ ] BlackHat_Attacking-Injection-Flaws-Masterclass-Edition-2022.part1
+- [ ] eWAPTX-v2_Web-Application-Penetration-Testing-Extreme-v2_Technet24
+- [ ] INE-WAPT-Web-Proxies-and-Web-Information-Gathering.part1
+- [ ] INE-Web-Application-Penetration-Testing-Web-Fingerprinting-and-Enumeration.part1
+- [ ] INE-Web-Application-Penetration-Testing-XSS-Attacks.part1
+- [ ] INE-Web-Application-Security-Testing-Encoding-Filtering-Evasion-Basics.part1
+- [ ] INE-Web-Application-Security-Testing-Web-Service-Security-Testing.part1
+- [ ] INE_Introduction_to_Web_Application_Security_Testing_2023-8.part1_Downloadly.ir
+- [ ] INE_Web_Application_Penetration_Testing_File_Resource_Attacks_2023-9_Downloadly.ir.part1
+- [ ] INE_Web_Application_Security_Testing_CMS_Security_Testing_2023-9_Downloadly.ir.part1
+- [ ] INE_Web_Application_Security_Testing_Testing_for_Common_Attacks_2023-9.part1_Downloadly.ir
+- [ ] Offensive_Security_WEB-200_Foundational_Web_Application_Assessments_with_Kali_Linux_2023-6_Downloadly.ir
+- [ ] Offensive_Security_WEB-300_Advanced_Web_Attacks_and_Exploitation_2022-1_Downloadly.ir
+- [ ] Penetration Testing Planning Scoping and Recon
+- [ ] Pentesters Practical Approach for Bug Hunting and Bug Bounty
+- [ ] PentestMag-Aerospace-Cybersecurity-Satellite-Hacking-W53.part1
+- [ ] Recon for Ethical Hacking  Penetration Testing & Bug Bounty
+- [ ] SANS-SEC522-Application-Security-Securing-Web-Apps-APIs-and-Microservices_Video.part1
+- [ ] SANS-SEC542-Web-App-Penetration-Testing-and-Ethical-Hacking-Video-2019_Technet24.part1
+- [ ] SANS-SEC573-Automating-Information-Security-with-Python-2020_Technet24.part1
+- [ ] Udemy_Intro_to_Bug_Bounty_Hunting_and_Web_Application_Hacking_2021-2.part1_Downloadly.ir
+- [ ] Udemy_Mastering_SQL_Injection_The_Ultimate_Hands_On_Course_2023-7.part1_Downloadly.ir
+- [ ] Udemy_Recon_for_Ethical_Hacking_Penetration_Testing_Bug_Bounty_2022-7_Downloadly.ir.part1
+- [ ] Udemy_Uncle_Rats_Web_Application_Hacking_And_Bug_Bounty_Guide_2022_11_Downloadly.ir.part1
+- [ ] ZDResearch_Advanced-Web-Hacking_Technet24.part1
+- [ ] [FreeCourseSite.com] Udemy - Complete Ethical Hacking Course Bug Bounty
+- [ ] [FreeCourseSite.com] Udemy - Full Web Ethical Hacking Course
+- [ ] [FreeCourseSite.com] Udemy - Learn Bug Bounty Hunting & Web Security Testing From Scratch
+- [ ] [FreeCourseSite.com] Udemy - Web Security Bug Bounty Learn Penetration Testing in 2023
+- [ ] [FreeCourseSite.com] Udemy - Website Hacking  Penetration Testing & Bug Bounty Hunting
+- [ ] [FreeCourseSite.com] Udemy - Website Hacking Penetration Testing
+- [ ] [FreeCoursesOnline.Me] A Cloud Guru - Advanced Vim Customization
+- [ ] [FreeCoursesOnline.Me] BlackHat - Attacking-and-Securing-APIs-Course
+- [ ] [FreeCoursesOnline.Me] Cloud Academy - Vim Masterclass - Learning Path
+- [ ] [FreeCoursesOnline.Me] INE - Introduction to Web Application Security Testing
+- [ ] [FreeCoursesOnline.Me] ITProTV - Intro To AWS Pentesting
+- [ ] [FreeCoursesOnline.Me] NotSoSecure - Advanced Web Hacking 2022
+- [ ] [FreeCoursesOnline.Me] PacktPub - Web Hacking Secrets How to Hack Legally and Earn Thousands of Dollars at HackerOne
+- [ ] [FreeCoursesOnline.Me] PentesterAcademy - Web Application Security Bootcamp
+- [ ] [FreeCoursesOnline.Me] TCM - Practical API Hacking
+- [ ] [Freeeducationweb.com] Advanced Ethical Hacking Network-Web PenTest-2 HandsOn_Labs
+- [ ] [Freeeducationweb.com] API Security with the OWASP API Security Top 10
+- [ ] [Freeeducationweb.com] Bug Bounty - An Advanced Guide to Finding Good Bugs
+- [ ] [Freeeducationweb.com] Bug Bounty And VAPT Course Will Make Uh Pro Rich 2023
+- [ ] [Freeeducationweb.com] BUG BOUNTY HUNTING – OFFENSIVE APPROACH TO HUNT BUGS
+- [ ] [Freeeducationweb.com] Bug-Bounty-Web-Application-Penetration-Testing-Bootcamp
+- [ ] [Freeeducationweb.com] Burp Suite Apprentice Web App Penetration Testing Course
+- [ ] [Freeeducationweb.com] Burp Suite Essential Training
+- [ ] [Freeeducationweb.com] Burp Suite Practitioner Web App Penetration Testing Course
+- [ ] [Freeeducationweb.com] Burp Suite Unfiltered - Go from a Beginner to Advanced!
+- [ ] [Freeeducationweb.com] Complete Web Application Offensive Hacking Course Pro Hacker
+- [ ] [Freeeducationweb.com] Crafting Nmap Scripts Advanced Network Scanning
+- [ ] [Freeeducationweb.com] Creating a Shodan Clone for hackers and bug bounty hunters
+- [ ] [Freeeducationweb.com] Cross-Site Scripting (XSS) The 2021 Guide
+- [ ] [Freeeducationweb.com] cves for bug bounties penetration testing
+- [ ] [Freeeducationweb.com] Ethical Hacking Using Python Begginer to Advanced
+- [ ] [Freeeducationweb.com] Ethical HackingPenetration Testing & Bug Bounty Hunting v2
+- [ ] [Freeeducationweb.com] How to create a CTF server
+- [ ] [Freeeducationweb.com] Intro to Bug Bounty Hunting and Web Application Hacking
+- [ ] [Freeeducationweb.com] Master the XSSCross Site Scripting for real world Apps
+- [ ] [Freeeducationweb.com] Mastering Authentication Vulnerabilities - Ultimate Course
+- [ ] [Freeeducationweb.com] Mastering Bug Bounty Unleash Your Cyber Security Skills
+- [ ] [Freeeducationweb.com] Mastering Command Injection - The Ultimate Hands-On Course
+- [ ] [Freeeducationweb.com] Mastering Directory Traversal The Ultimate HandsOn Course
+- [ ] [Freeeducationweb.com] Mastering Server-Side Request Forgery (SSRF) Vulnerabilities
+- [ ] [Freeeducationweb.com] Mastering SQL Injection - The Ultimate Hands-On Course
+- [ ] [Freeeducationweb.com] Network Protocols for Security - DNS By brandon-devault
+- [ ] [Freeeducationweb.com] OWASP - ZAP  Penetration Testing & Website Hacking
+- [ ] [Freeeducationweb.com] OWASP API Security Top 10 2021 with Java Examples
+- [ ] [Freeeducationweb.com] Practical Firewall Penetration Testing  Firewall Audit
+- [ ] [Freeeducationweb.com] Practical Linux for Pentesting & Bug Bounties
+- [ ] [Freeeducationweb.com] Python For Ethical Hackers and Cyber Security Engineers
+- [ ] [Freeeducationweb.com] Python Hacking  Real Ethical Hacking with Python  PYCEH23+
+- [ ] [Freeeducationweb.com] Race conditions in the real world application for bug bounty
+- [ ] [Freeeducationweb.com] Recon for bug bounty, penetration testers & ethical hackers
+- [ ] [Freeeducationweb.com] Scan Web Applications with Bash By ricardo-reimao
+- [ ] [Freeeducationweb.com] Secure Coding with OWASP in React 18 By paul-mooney
+- [ ] [Freeeducationweb.com] Specialized Testing - Command Injection
+- [ ] [Freeeducationweb.com] Start Hacking at HackerOne
+- [ ] [Freeeducationweb.com] THE ART OF WEB RECONNAISSANCE BUG BOUNTY ETHICAL HACKING
+- [ ] [Freeeducationweb.com] The Ultimate Guide to Hunt Account Takeover2022
+- [ ] [Freeeducationweb.com] The Ultimate Web Application Bug Bounty Hunting Course
+- [ ] [Freeeducationweb.com] Web App Live Bug Bounty Hunting With And Without Burp Suite
+- [ ] [Freeeducationweb.com] Web App Pen Testing
+- [ ] [Freeeducationweb.com] Web App Pen Testing Mapping
+- [ ] [Freeeducationweb.com] Web Security A Hands-on Approach
+- [ ] [Freeeducationweb.com] Web Security OAuth and OpenID Connect
+- [ ] [GigaCourse.Com] Udemy - Learn Bug Bounty Hunting & Web Security Testing From Scratch

@@ -1,0 +1,3 @@
+
+Well, a running program does one very simple thing: it executes instructions. Many millions (and these days, even billions) of times every second, the processor fetches an instruction from     memory, decodes it (i.e., figures out which instruction this is), and executes it (i.e., it does  the thing that it is supposed to do, like add two numbers together, access memory, check a condition, jump to a function, and so forth). After it is done with this instruction, the processor moves on to the next instruction, and so on, and so on, until the program finally completes.
+Thus, we have just described the basics of the Von Neumann model of computing.

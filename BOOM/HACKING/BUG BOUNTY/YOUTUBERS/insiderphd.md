@@ -1,0 +1,99 @@
+- [ ] 3 Real API Bugs I got a bounty for.mp4
+- [ ] 5 Bug Bounty Time Investments.mp4
+- [ ] Advent of Cyber 2022_ Day 15 Santa is looking for a Sidekick (Walkthrough).mp4
+- [ ] Advent of Cyber 2022_ Day 16 SQLi’s the king, the carolers sing (Walkthrough).mp4
+- [ ] Advent of Cyber 2022_ Day 17 Filtering for Order Amidst Chaos (Walkthrough).mp4
+- [ ] API Recon with Kiterunner - Hacker Toolbox.mp4
+- [ ] Approaching Large Scope Targets Without Feeling Overwhelmed.mp4
+- [ ] Beginners Guide to iOS Testing Jailbreak, SSL Bypass & Burp.mp4
+- [ ] Broken Object Level Authorisation _ BOLA _ IDORs explained #shorts #api  #hacking.mp4
+- [ ] Bug In Focus_ Remote Code Execution (RCE).mp4
+- [ ] Burp for Beginners_ A practical intro to help you find your first bug.mp4
+- [ ] Burp for Beginners_ How to Use Intruder.mp4
+- [ ] Burp for Beginners_ How to Use Repeater.mp4
+- [ ] Burp for Beginners_ Introduction to Burp.mp4
+- [ ] Channel Updates_ Discord, Patreon and Taking Breaks!.mp4
+- [ ] Chrome Updates and CSRF Dies_.mp4
+- [ ] Creating a Vulnerable Web App (Time-Lapse).mp4
+- [ ] DEFCON Safemode - What I Watched at DEFCON.mp4
+- [ ] DEFCON Safemode - What to Watch For Bug Hunters.mp4
+- [ ] E-commerce Flaws and $500-1000 Bounties.mp4
+- [ ] Easy IDOR hunting with Autorize_ (GIVEAWAY).mp4
+- [ ] Escalating Your Bugs With GDPR Impact.mp4
+- [ ] Every Type of XSS Attack, Explained.mp4
+- [ ] Finding Bugs in Mobile APIs.mp4
+- [ ] Finding Your First API Bug (NahamCon 2023).mp4
+- [ ] Finding Your First Bug_ Business Logic Errors.mp4
+- [ ] Finding Your First Bug_ Choosing Your Target.mp4
+- [ ] Finding Your First Bug_ Cross Site Scripting (XSS).mp4
+- [ ] Finding Your First Bug_ Cross-Site Request Forgery (CSRF).mp4
+- [ ] Finding Your First Bug_ Finding Bugs Using APIs.mp4
+- [ ] Finding Your First Bug_ Getting Started on a Target (Part 1).mp4
+- [ ] Finding Your First Bug_ Getting Started on a Target (Part 2).mp4
+- [ ] Finding Your First Bug_ Goal Setting and Motivation.mp4
+- [ ] Finding Your First Bug_ Goal Setting _ Remote Code Execution (RCE).mp4
+- [ ] Finding Your First Bug_ Impact and Report Writing.mp4
+- [ ] Finding Your First Bug_ Manual IDOR Hunting.mp4
+- [ ] Finding Your First Bug_ Reading JSON and XML for Information Disclosure.mp4
+- [ ] Finding Your Next Bug_ Blind Cross Site Scripting (XSS) & XSS Hunter.mp4
+- [ ] Finding Your Next Bug_ GraphQL.mp4
+- [ ] Full Time Bug Hunting with Alex Chapman - Full Interview.mp4
+- [ ] Full Time Bug Hunting with Alex Chapman.mp4
+- [ ] Getting Organised_ Finding More Time in the Day.mp4
+- [ ] Getting Organised_ Making a __TODO list.mp4
+- [ ] Getting Started with Android App Testing with Genymotion.mp4
+- [ ] Giving Yourself the Best Opportunity to Find a Bug.mp4
+- [ ] Hack with Katie_ Live Session.mp4
+- [ ] Hacking when all the bugs have been found_.mp4
+- [ ] HackManchester 2015 - University Challenge Winners Team Wiggle Wiggle.mp4
+- [ ] Here are 3 bugs I’ve Found with Recon (and how I hacked them).mp4
+- [ ] How does Bug Bounty work anyway_.mp4
+- [ ] How I Found My First Bug (and earned $1k!) - Business Logic Tips.mp4
+- [ ] How I made 1k in a day with IDORs! (10 Tips!).mp4
+- [ ] How Pros Use CVEs to Find New Bugs (before anyone else! ft CVE-2020-5902).mp4
+- [ ] How To Do Recon_ API Enumeration.mp4
+- [ ] How To Do Recon_ Introduction to Recon.mp4
+- [ ] How to Find Your First Bug.mp4
+- [ ] How to Stop Learning and Start Hacking!.mp4
+- [ ] How to Take EFFECTIVE Bug Bounty Notes.mp4
+- [ ] How to Use Bug Bounty to Help Your Career!.mp4
+- [ ] How to use ffuf - Hacker Toolbox.mp4
+- [ ] How to Use Firefox Containers for Easy IDOR Hunting (With Demo!).mp4
+- [ ] Hunting for bugs in GraphQL APIs (Demo).mp4
+- [ ] I may need to fiddle with some settings but I had to share how cool this is!!!! #shorts.mp4
+- [ ] If you want to enter the Jason Haddix Bug Bounty Methodology giveaway use this form!.mp4
+- [ ] Introduction to Bash Programming (GIVEAWAY).mp4
+- [ ] Katie Explains_ Modern Web Development (GIVEAWAY).mp4
+- [ ] Katie's 1k Q and A_ Getting into bug bounties, research progress, what to do after recon_.mp4
+- [ ] Learn Bug Bounty Hunting with These Resources!.mp4
+- [ ] Live API Demo with OWASP Santa Barbara.mp4
+- [ ] Live API Hacking Demo.mp4
+- [ ] Live GraphQL Q&A Session.mp4
+- [ ] Low Competition Bug Hunting (What to Learn) - ft. #AndroidHackingMonth.mp4
+- [ ] My API Testing Automated Toolbox.mp4
+- [ ] My Hacking Setup and How to Use It (Firefox_Burp Community).mp4
+- [ ] My Methodology.mp4
+- [ ] New OWASP API Top 10 for Hackers.mp4
+- [ ] Note-Taking for Bug Bounty Hunters - How I Use Notion and How You Can Too.mp4
+- [ ] Note-Taking for Bug Bounty Hunters TL;DR version.mp4
+- [ ] Reported to Resolved_ Bug Bounty Program Manager.mp4
+- [ ] Revealing Secrets with Information Disclosure Bugs.mp4
+- [ ] Stored, Blind, Reflected and DOM - Everything Cross--Site Scripting (XSS).mp4
+- [ ] Teaching My Mum to Hack (15,000 subscriber special).mp4
+- [ ] Testing e-commerce_ Here’s what to look for 👌.mp4
+- [ ] The truth about API hacking....mp4
+- [ ] TL;DR_ Creating your own Bug Bounty knowledgebase (Zettelkasten for BB).mp4
+- [ ] Top 10 API Bugs (and Where to Find Them).mp4
+- [ ] Try Hack Me_ Advent of Cyber 2021 - Day 3.mp4
+- [ ] TryHackMe Advent Of Cyber Day 10 - SQL Injection.mp4
+- [ ] TryHackMe Advent Of Cyber Day 20 - DevSecOps.mp4
+- [ ] TryHackMe Advent Of Cyber Day 7 - Log Analysis.mp4
+- [ ] Updated Beginners Guide to API Bug Bounty.mp4
+- [ ] What Can an Attacker Actually Do With a Bug Anyway_.mp4
+- [ ] What Next_ 2020 Plans.mp4
+- [ ] Whoami_ My Bug Bounty Story.mp4
+- [ ] Why do Bug Bounty hunters love Obsidian_.mp4
+- [ ] Why does DNS always break the internet_.mp4
+- [ ] Why Your IDORs Get NA’d, Cookies Explained.mp4
+- [ ] _Easiest_ Beginner Bugs_ Access Control and IDORs.mp4
+- [ ] _How to Get Started with Bug Bounty_ - Resource Lists & Advice.mp4

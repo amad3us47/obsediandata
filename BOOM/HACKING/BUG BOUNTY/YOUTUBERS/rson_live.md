@@ -1,0 +1,41 @@
+
+- [ ] A Complete Guide to My Bug Bounty Hunting Framework.mp4
+- [ ] Bug Bounty Hunting for Client-Side Injection Vulnerabilities _ Part I.mp4
+- [ ] Bug Bounty Hunting for Reflected XSS - Who, What, When, Where, Why, and How___.mp4
+- [ ] Bug Bounty Hunting for Server-Side Request Forgery - Who, What, When, Where, How, and Why_.mp4
+- [ ] Bug Bounty Hunting _ Deep Dive -- Part 1.mp4
+- [ ] Bug Bounty Hunting _ Deep Dive -- Part II.mp4
+- [ ] Bug Bounty Hunting _ Find HIGH VALUE Targets using Automation and Experience.mp4
+- [ ] Bug Bounty Hunting _ Shopify is paying $200,000 to ANYONE who can hack them!!!.mp4
+- [ ] Bug Bounty Tip _ Do This Exercise Every Day to Get Better at Finding XSS Bugs!.mp4
+- [ ] Bug Bounty Tip _ How to Set Up Testing Requirements for Public HackerOne Program.mp4
+- [ ] Bug Bounty Tip _ Test Hidden API's From Desktop Applications!.mp4
+- [ ] Bug Bounty _ 404 Response = API -- Fuzz For Endpoints #bugbounty #cybersecurity.mp4
+- [ ] Bug Bounty _ Burpsuite Scan for User-Controlled Input -- DOM Injection #bugbounty #cybersecurity.mp4
+- [ ] Bug Bounty _ Internal Apps Share Auth w_ Customer-Facing App #bugbounty #cybersecurity.mp4
+- [ ] Bug Bounty _ What Are HTTP Requests__ #bugbounty bugbounty #cybersecurity.mp4
+- [ ] Bug Bounty _ What Data Do They REALLY Care About__ #bugbounty #cybersecurity.mp4
+- [ ] Bug Bounty _ When Applications Look Similar But Aren't... #bugbounty #cybersecurity.mp4
+- [ ] Bug Bounty _ Why It's SO HARD to Find An XSS Bug When You're a Beginner #bugbounty #cybersecurity.mp4
+- [ ] Burp Suite Web Academy - Mystery Labs _ Live Stream Recording.mp4
+- [ ] Everything You Need To Know About Burp Suite For Bug Bounty Hunting!.mp4
+- [ ] Fiverr Pro _ Attack Surface Vulnerability Scanning -- 👀🎯 See How Attackers See You.mp4
+- [ ] Fiverr Pro _ Web Application & Cloud Infrastructure Pen Test.mp4
+- [ ] I'm Exhausted.....but my Bug Bounty Framework (Alpha Version) is FINALLY READY!!!.mp4
+- [ ] Install my NEW Bug Bounty Framework on Kali Linux _ The Ars0n Framework -- (No Audio).mp4
+- [ ] Live Bug Bounty Hunting _ Authenticated Testing the Client-Side & Server-Side on Figma's Core App.mp4
+- [ ] Live Bug Bounty Hunting _ Client-Side Injection Testing on Starbucks Japan (Plus Q&A).mp4
+- [ ] LIve Bug Bounty Hunting _ Unauthenticated Testing on Front.com.mp4
+- [ ] Live Bug Bounty Recon & Enumeration (Raw Stream) _ HackerOne Public Program Starbucks.mp4
+- [ ] Live Bug Bounty Recon (Raw Stream) _ HackerOne Public Program - Hilton.mp4
+- [ ] My Bug Bounty Hunting Framework _  New Collaboration Features Out Now!!! -- Alpha 0.0.2 Release.mp4
+- [ ] My Discord Server is FINALLY Ready!!!.mp4
+- [ ] New Fiverr Pro Gig!!  Attack Surface Vulnerability Scanning -- 👀🎯 See How Attackers See You.mp4
+- [ ] New Fiverr Pro Gig!!  Web Application & Cloud Infrastructure Penetration Test.mp4
+- [ ] Portswigger Web Academy _ Client-Side Prototype Pollution (CSPP) -- Lab 1.mp4
+- [ ] Testing YouTube Live -- Come Hang Out!.mp4
+- [ ] This Update to my Bug Bounty Hunting Framework is a GAMECHANGER!!!.mp4
+- [ ] WHAT have I been DOING for the last SIX MONTHS___.mp4
+- [ ] [Part III] Bug Bounty Hunting for IDORs & Access Controls.mp4
+- [ ] [Part II] Bug Bounty Hunting for IDORs and Access Control Violations.mp4
+- [ ] [Part I] Bug Bounty Hunting for IDORs and Access Control Violations.mp4

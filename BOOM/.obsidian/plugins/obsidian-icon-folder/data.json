@@ -1,0 +1,44 @@
+{
+  "settings": {
+    "migrated": 5,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "🧰",
+      "🌴",
+      "🛠",
+      "🐧",
+      "🐛"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false
+  },
+  "AI": "🤖",
+  "LINUX": "🐧",
+  "THE MEANING OF LIFE": "🌴",
+  "HACKING/BUG BOUNTY": "🐛",
+  "HACKING/BUG BOUNTY/BOOKS": "📚",
+  "HACKING/BUG BOUNTY/YOUTUBERS": "👀",
+  "HACKING/REVERSE ENGINEERING": "🛠",
+  "HACKING/TOOLS": "🧰",
+  "PROGRAMMING/DSA": "🧑‍💻"
+}

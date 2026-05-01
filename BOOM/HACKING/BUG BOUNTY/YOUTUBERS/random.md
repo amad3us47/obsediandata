@@ -1,0 +1,702 @@
+
+- [ ] #Eko2020 Workshops _ Rajanish Pathak, Rahul Maini & Harsh Jaiswal_ Demystifying the Server Side.mp4
+- [ ] #HITB2012KUL D2T1 - Shreeraj Shah - XSS & CSRF Strike Back -- Powered by HTML5.mp4
+- [ ] #HITB2017AMS D2T1 - Everybody Wants SOME_ Advance Same Origin Method Execution - Ben Hayak.mp4
+- [ ] #HITB2019AMS D2T1 - Hacking Jenkins - Orange Tsai.mp4
+- [ ] #HITBCyberWeek #CommSec Practical Approaches For Testing And Breaking JWT Auth - Mazin Ahmed.mp4
+- [ ] #HITBGSEC 2017 SG Conf D1 - A New Era Of SSRF - Exploiting Url Parsers - Orange Tsai.mp4
+- [ ] #NahamCon2022 - @gregxsunday_ Effectively finding vulnerabilities by debugging the source code (1).mp4
+- [ ] #NahamCon2022 - @gregxsunday_ Effectively finding vulnerabilities by debugging the source code.mp4
+- [ ] $4,000 Starbucks secondary context path traversal - Hackerone.mp4
+- [ ] $6,5k + $5k HTTP Request Smuggling mass account takeover - Slack + Zomato.mp4
+- [ ] 0x03 Still Fuzzing Faster (U Fool) - joohoi - HelSec Virtual meetup #1.mp4
+- [ ] 1- مقدمة الكورس.mp4
+- [ ] 1.Cross Site Scripting - XSS in GET Request _ Bug Bounty PoC _ Bug Bounty Beginner _Bug Bounty Steps.mp4
+- [ ] 10- Linux Command Part 5.mp4
+- [ ] 10.  Referer Cross Site Scripting _ referer XSS _ xss referer  _ Cross site scripting referer.mp4
+- [ ] 100 Bug Bounties and Security Research Kevin Johnson.mp4
+- [ ] 11- ما هو ال Hashing وكيف يعمل.mp4
+- [ ] 11. Useragent XSS _ XSS Attack User-Agent _ XSS Injection in the UserAgent _  User agent header xss.mp4
+- [ ] 117 How to hack all the bug bounty things automagically reap the rewards profit Mike Baker.mp4
+- [ ] 12- ما هو ال Encoding وكيف يعمل.mp4
+- [ ] 12. accept header XSS _ XSS Attack accept header _ XSS Injection in the accept header _  accept xss.mp4
+- [ ] 13- ما هو ال Symmetric Encryption.mp4
+- [ ] 13. Data sanitization xss _ Data sanitization xss bypass _ Data sanitization cross site scripting.mp4
+- [ ] 14- ما هو ال Asymmetric Encryption.mp4
+- [ ] 15 Technique to Exploit File Upload Pages - Ebrahim Hegazy, HackIT-2017 (1).mp4
+- [ ] 15 Technique to Exploit File Upload Pages - Ebrahim Hegazy, HackIT-2017.mp4
+- [ ] 15- كيف يعمل ال HTTPS.mp4
+- [ ] 15.command injection login as any user _ command injection exploit _ command injection burp suite.mp4
+- [ ] 16- What Happens when I open Google.com in my browser (بالعربي).mp4
+- [ ] 16.command injection Database Leak _ command injection Tutorial _ command injection Vulnerability.mp4
+- [ ] 17- شرح ال TCP & UDP بالتفصيل.mp4
+- [ ] 17.command injection Code steal impact _ command injection exploit _ command injection burp suite.mp4
+- [ ] 18- ما هو ال DNS وكيف يعمل.mp4
+- [ ] 18.command injection Web Deface Impact _ command injection exploit _ command injection burp suite.mp4
+- [ ] 19- شرح ثغرات ال Subdomain Takeover and Different DNS Records.mp4
+- [ ] 19.command injection Bypass Pipeline _ command injection exploit _ command injection burp suite.mp4
+- [ ] 2- تحميل وتشغيل متطلبات الكورس.mp4
+- [ ] 2. Cross Site Scripting Over Hidden Form Fields _ xss POC _ Reflected XSS _ xss tutorial _ xss basic.mp4
+- [ ] 20- كيف تكتشف ثغرات Subdomain Takeover.mp4
+- [ ] 20.command injection Shell access _ command injection exploit _ command injection burp suite.mp4
+- [ ] 2016 - James Kettle - Hunting Asynchronous Vulnerabilities (1).mp4
+- [ ] 2016 - James Kettle - Hunting Asynchronous Vulnerabilities.mp4
+- [ ] 2016 - Jerome Smith - From CSV to CMD to qwerty.mp4
+- [ ] 2019 - Reversing Client Side JavaScript Using the Chrome Dev Tools Protocol.mp4
+- [ ] 2019 - Sexy Mobile App Attacks by Example.mp4
+- [ ] 21- شرح أداة NMAP.mp4
+- [ ] 22- Advanced Nmap.mp4
+- [ ] 22. Command Injection Payloads _ Bug Bounty POC _ Buy bounty Tutorials_ Bug Bounty Beginner.mp4
+- [ ] 23- Nmap MoreOver.mp4
+- [ ] 23. Command Injection Mitigation _ Command Injection Remediation _ Command Injection Prevention.mp4
+- [ ] 24- شرح أداة ال BurpSuite.mp4
+- [ ] 25- BurpSuite Tabs part 1.mp4
+- [ ] 26- Burp Tabs part 2.mp4
+- [ ] 27- HTTP Methods, Request and Response Headers.mp4
+- [ ] 28- لماذا تحدث الثغرات_.mp4
+- [ ] 29- شرح ثغرات XSS (Reflected, Stored and DOM based XSS).mp4
+- [ ] 2FA BYPASS _ BRUTE FORCING _ ADVANCE BURP SUITE USE _ BUG BOUNTY COURSE _ HINDI _ EP#14🔥.mp4
+- [ ] 3- شرح لكيف تتم تسريبات قواعد بيانات المواقع الشهيرة.mp4
+- [ ] 3. Cross Site Scripting POST request _ xss POC _ Reflected XSS  POST _ XSS Bounty _ XSS tutorial.mp4
+- [ ] 30- ترقيع ثغرات ال XSS, response headers and input filtering..mp4
+- [ ] 31- شرح Advanced XSS Exploitation.mp4
+- [ ] 32- شرح SOP, CORS, CSP and Exploiting Misconfigured CORS.mp4
+- [ ] 33- شرح How WAF's works, Bypassing XSS filters, HTTP Parameter Pollution and more.mp4
+- [ ] 34- الجزأ الأول من حلول تحديات ال XSS.mp4
+- [ ] 35- الجزأ الثاني من حلول تحديات ال XSS.mp4
+- [ ] 35C3 -  From Zero to Zero Day.mp4
+- [ ] 36- شرح ثغرات ال CSRF مع مثال علي ثغرة خطيرة في موقع تويتر.mp4
+- [ ] 37- كيف تتربح ماديا من إكتشاف ثغرات المواقع (الجزأ الأول).mp4
+- [ ] 38- كيف تتربح ماديا من إكتشاف ثغرات المواقع (الجزأ الثاني).mp4
+- [ ] 39- Information disclosure tips and tricks..mp4
+- [ ] 3rd Real World CTF_  A Journey Combining Web Hacking and Binary Exploitation in Real World!.mp4
+- [ ] 4 Weird Google VRP Bugs in 40 Minutes - Hacktivity 2021.mp4
+- [ ] 4- Exploiting leaked databases for Penetration Testers and RedTeaming (بالعربي).mp4
+- [ ] 4. Cross Site Scripting Over non existent Form Fields _ xss POC _ Reflected XSS _ xss tutorial _ xss.mp4
+- [ ] 40 - شرح ثغرات Server-Side Request Forgery (SSRF).mp4
+- [ ] 41- شرح ثغرات Local_Remote file inclusion, LFD, and Path Traversal.mp4
+- [ ] 42- شرح ثغرات Host header attacks.mp4
+- [ ] 43- شرح ثغرات Cache Poisoning & Cache Deception Attacks.mp4
+- [ ] 44- طريقتي في عمل اختبار اختراق لويب أبلكيشن (part 1).mp4
+- [ ] 44- طريقتي في عمل اختبار اختراق لويب أبلكيشن (part 2).mp4
+- [ ] 45- Google bug bounty hunting (Part1).mp4
+- [ ] 46- Google bug bounty hunting (Part2).mp4
+- [ ] 47- شرح 15 طريقة لإكتشاف ثغرات في صفحات ال file upload.mp4
+- [ ] 5 - مقدمة لنظام التشغيل Linux.mp4
+- [ ] 5. Cross Site Scripting cookie stealing POC _ xss POC _ Reflected XSS _ xss tutorial _ xss basic.mp4
+- [ ] 6-  Linux Command Line Part 1.mp4
+- [ ] 6. Cross Site Scripting to steal credentials _ xss POC _ Reflected XSS _ xss tutorial _ xss basic.mp4
+- [ ] 600+ XSS PAYLOADS _ BAHUBALI APPROACH TO XSS  _ HOW TO FIND XSS _BUG BOUNTIES METHODS _EP#6🔥.mp4
+- [ ] 7-  Linux Command Line Part 2.mp4
+- [ ] 7. Cross Site Scripting phishing login page _ xss POC _ Reflected XSS _ xss tutorial _ xss basic.mp4
+- [ ] 8- Linux Command Part 3.mp4
+- [ ] 8. Cross Site Scripting without script tags _ xss POC _ Reflected XSS _ xss tutorial _ xss basic.mp4
+- [ ] 8_25_2019 - Live Bug Bounty Recon Session w_ @FransRosen.mp4
+- [ ] 9- Linux Command Part 4.mp4
+- [ ] 9.  Cookie Based Cross Site Scripting _ Cookie XSS _ XSS Cookie _ Cross site scripting cookie.mp4
+- [ ] @zlz Talks About How He Got Started, Recon, Hacking @Tesla, and Working With @Theparanoids.mp4
+- [ ] A Drop of Jupyter_ A Modular Approach to Penetration Testing.mp4
+- [ ] A Hacker's perspective on AEM applications security.mp4
+- [ ] A Heaven for Hackers_ Breaking a Web Security Virtual Appliances - by Mehmet INCE.mp4
+- [ ] A Look Into zseano's Thoughts When Testing a Target - Sean @zseano (1).mp4
+- [ ] A Look Into zseano's Thoughts When Testing a Target - Sean @zseano.mp4
+- [ ] Advance Waf Bypass Union Select part 1.mp4
+- [ ] Advance Waf Bypass Union Select part 2.mp4
+- [ ] Advance Waf Union Select  bypass part 3 (Join query Bypass).mp4
+- [ ] Advanced Android Bug Bounty skills - Ben Actis, Bugcrowd's LevelUp 2017 (1).mp4
+- [ ] Advanced Android Bug Bounty skills - Ben Actis, Bugcrowd's LevelUp 2017.mp4
+- [ ] Advanced Hacking Workshop with Frans Rosén and Peter Yaworski at h1-415.mp4
+- [ ] AEM hacker - approaching Adobe Experience Manager webapps by Mikhail Egorov (1).mp4
+- [ ] AEM hacker - approaching Adobe Experience Manager webapps by Mikhail Egorov.mp4
+- [ ] albinowax - HTTP Desync Attacks_ Smashing into the Cell Next Door - DEF CON 27 Conference.mp4
+- [ ] Alex Chapman_ How to Be a High-Impact Hacker (Ep. 31).mp4
+- [ ] All your bases are belong to us - Shamil Alifov.mp4
+- [ ] Amass Setup and Tutorial.mp4
+- [ ] AMASS TUTORIAL IN HINDI _ TOOLS FOR BUG BOUNTY _ BUG BOUNTY TUTORIAL IN HINDI _ ETHICAL HACKING_🔥🔥.mp4
+- [ ] Analyzing The OWASP API Security Top 10 For Pen Testers.mp4
+- [ ] Android App Penetration Testing 101.mp4
+- [ ] Android Application Exploitation - DEF CON Safe Mode Red Team Village.mp4
+- [ ] Android Application Pentesting - Mystikcon 2020.mp4
+- [ ] Android Application Security Testing Training Day-01 Session - Aug 19.mp4
+- [ ] Android Application Security Testing Training Day-02 Session - Aug 19.mp4
+- [ ] Android Application Security Testing Training Day-03 Session - Aug 19.mp4
+- [ ] Android Application Security Testing Training Day-04 Session - Aug 19.mp4
+- [ ] Android Hacking VirSecCon2020 talk.mp4
+- [ ] Android Pentesting _ Insecure Logging & Storage + Setup Genymotion & pidcat - Pt. 02.mp4
+- [ ] API Pentesting for Vulnerability & Bug bounty _ Authorization Token _ Rate limit bypass _ Test cases.mp4
+- [ ] API Security 101 by Sadako.mp4
+- [ ] API Testing from Entry Level to PhD - Jason Ioannides.mp4
+- [ ] Application Security_ Web Apps, APIs & Microservices _ #Replay.mp4
+- [ ] Apply these in your #bugbounty methodology! Hands-on #CTF challenge walkthrough..mp4
+- [ ] APPSEC AND BUGBOUNTY.mp4
+- [ ] APPSEC CA 2017 Ken Johnson.mp4
+- [ ] APPSEC Cali 2018 - A Tour of API Underprotection.mp4
+- [ ] AppSec EU 2017 DNS Hijacking Using Cloud Providers_ No Verification Needed by Frans Rosén.mp4
+- [ ] AppSec EU 2017 Don't Trust The DOM_ Bypassing XSS Mitigations Via Script Gadgets by Sebastian Lekies.mp4
+- [ ] AppSec EU 2017 Exploiting CORS Misconfigurations For Bitcoins And Bounties by James Kettle (1).mp4
+- [ ] AppSec EU 2017 Exploiting CORS Misconfigurations For Bitcoins And Bounties by James Kettle.mp4
+- [ ] AppSec EU 2017 LT CSP Pitfalls And Gotchas by Ilya Nesterov.mp4
+- [ ] AppSec EU15 - Michele Spagnuolo - Abusing JSONP With Rosetta Flash.mp4
+- [ ] AppSecCali 2019 - Cache Me If You Can_ Messing with Web Caching.mp4
+- [ ] AppSecCali 2020 Closing Keynote_ Browser Manipulation for Bypassing Firewalls - Samy Kamkar.mp4
+- [ ] AppSec_ From the OWASP Top Ten(s) to the OWASP ASVS • Jim Manico • GOTO 2019.mp4
+- [ ] Arcane Web and Mobile Application Vulnerabilities _ SANS@MIC Talk.mp4
+- [ ] Attacking & Auditing Docker Containers Using Open Source tools.mp4
+- [ ] Attacking Containers Training.mp4
+- [ ] Attacking Development Pipelines For Actual Profit - Alex Chapman.mp4
+- [ ] Attacking Modern Web Technologies - Frans Rosén (1).mp4
+- [ ] Attacking Modern Web Technologies - Frans Rosén.mp4
+- [ ] Attacking Secondary Contexts in Web Applications - Sam Curry.mp4
+- [ ] Automate Android Penetration Testing_Bug Bounty Setup 🔥 #cybersecurity.mp4
+- [ ] Automate Your Bug Bounty With This Tool!!!.mp4
+- [ ] Automate your Bug Hunting using Nuclei _ Writing our own nuclei template _ Be The H.A.C.R. - Ep. 18.mp4
+- [ ] Automated SQL Injection -  Using SQLMap _ Setup & Usage sqlmap _ Be The H.A.C.R.- Ep - 14.mp4
+- [ ] Automated Static And Dynamic Security Analysis of Mobile Apps by Raveendar & Rajesh #AppiumConf2019.mp4
+- [ ] Automating API Penetration Testing using fuzzapi - AppSecUSA 2016.mp4
+- [ ] Automating IDORS with Autorize - Common API Bugs Pt. 2  - IDORs & Access Control Issues.mp4
+- [ ] Automating Recon with Bash Scripting.mp4
+- [ ] AUTOMATING YOUR BUG HUNTING METHODOLOGY WITH THIS EASY TUTORIAL IN HINDI🔥🔥.mp4
+- [ ] Bash Scripting for Pentesters by Lee Baird.mp4
+- [ ] Basics of Bug Bounty _ Get started with Bug Bounty _  Bug Bounty Basic Tutorial.mp4
+- [ ] Beginner Bug Bounty Tutorial  _ Bug Bounty Beginner _ Bug Bounty Tutorial Beginner.mp4
+- [ ] Beginner to Advanced Bug Bounty Hunting Course _ 2022.mp4
+- [ ] Ben Sadeghipour - Owning The Clout Through Server Side Request Forgery - DEF CON 27 Conference (1).mp4
+- [ ] Ben Sadeghipour - Owning The Clout Through Server Side Request Forgery - DEF CON 27 Conference.mp4
+- [ ] BEST BEGINNER TIP FOR BUG HUNTING _ BUG BOUNTY BEGINNER TIPS _ HOW TO GET URL TO FIND BUGS_ _ HINDI✔.mp4
+- [ ] BEST RESOURCES FOR ETHICAL HACKERS _ BUG BOUNTY TIPS AND TRICKS IN HINDI _ MUST WATCH 🔥💻.mp4
+- [ ] Best Video To Learn Reconnaissance _ Advance Information Gathering _ Must Watch 🔥🔥.mp4
+- [ ] BEST WAYS TO FIND SUBDOMAINS _ HOW PRO BUG HUNTER DO _ SUBDOMAIN SCRAPPING & BRUTING _ HINDI 👌👌.mp4
+- [ ] BHack 2020 - Step by step AWS Cloud Hacking - EN.mp4
+- [ ] Black Hat 2013 - Dissecting CSRF Attacks and Countermeasures.mp4
+- [ ] Black Hat EU 2013 - XML Out-of-Band Data Retrieval.mp4
+- [ ] Black Hat USA 2012 - HTML5 Top 10 Threats_ Stealth Attacks & Silent Exploits.mp4
+- [ ] BlackHat 2011 - Automated Detection of HPP Vulnerabilities in Web Applications.mp4
+- [ ] BlackHat 2011 - Server-Side Javascript Injection, Attacking and Defending NOSQL and NODE.JS.mp4
+- [ ] Blind XSS Automation _ Very Simple and Effective Method🔥🔥.mp4
+- [ ] Blind XSS Live demonstration  + xss Hunter by Hardikrathod #cyberTEACH.mp4
+- [ ] Bounty Thursdays _ BUGBOUNTY PRO TIPS FOR BEGINNERS (Instagram replay).mp4
+- [ ] BOUNTYBASH - Live Hacking Event.mp4
+- [ ] Breaking Mobile App Protection Mechanisms - Ben Actis, Bugcrowd's LevelUp 2017.mp4
+- [ ] Bringing a Machete to the Amazon.mp4
+- [ ] Broad Scope Bug Bounty Methodology_ Hunt Like A Rat.mp4
+- [ ] Broken Acces Control_ What is it and how do you test for it.mp4
+- [ ] BROKEN ACCESS CONTROL _ OWASP TOP 10 _ EXPLAINED WITH LABS_ BUG BOUNTY COURSE _ HINDI _ EP#16🔥.mp4
+- [ ] Browser Exploitation for Fun and Profit - Dhiraj Mishra, Bugcrowd's LevelUp 2017.mp4
+- [ ] Browser hacking_ Simple cross-frame scripting.mp4
+- [ ] BSidesBUD2022_ Bug Bounty Recon The Right Way.mp4
+- [ ] BSidesCLT 2016_ Hacking With REST For Love by Drew Green.mp4
+- [ ] BSidesMCR 2018_ Practical Web Cache Poisoning_ Redefining 'Unexploitable' by James Kettle.mp4
+- [ ] BSidesPhilly cs08 Hacker Mindset David Brown CISSP CISM IAM.mp4
+- [ ] BSidesSF 101 The Tales of a Bug Bounty Hunter Arne Swinnen (1).mp4
+- [ ] BSidesSF 101 The Tales of a Bug Bounty Hunter Arne Swinnen.mp4
+- [ ] BSidesSF 2019 - Automating Web Application Bug Hunting (Jerry Gamblin • Jonathan Cran) (1).mp4
+- [ ] BSidesSF 2019 - Automating Web Application Bug Hunting (Jerry Gamblin • Jonathan Cran).mp4
+- [ ] BSidesSF 2019 - HTTP Security Headers_ A Technology History Through Scar Tissue (Benjamin Hering).mp4
+- [ ] BSidesSF 2019 - Offensive Javascript Techniques for Red Teamers (Dylan Ayrey • Christian Frichot).mp4
+- [ ] BSidesSF 2021 - Offensive Javascript Techniques for Red Teamers (Dylan Ayrey • Christian Frichot) (1).mp4
+- [ ] BSidesSF 2021 - Offensive Javascript Techniques for Red Teamers (Dylan Ayrey • Christian Frichot).mp4
+- [ ] Bug Bounties - Sean Sun.mp4
+- [ ] Bug Bounties With Bash - VirSecCon2020 Talk.mp4
+- [ ] Bug Bounty - How to Avoid Duplicate Bugs.mp4
+- [ ] BUG BOUNTY - RECON with SHIVANG TRIVEDI _ SUBDOMAIN TAKEOVER SHODAN LOGIN BYPASS _ ZERO DAY EP 03.mp4
+- [ ] Bug bounty automation and scaling 0days - Michael Ness - BBRD podcast #4.mp4
+- [ ] Bug Bounty Basics _ Bug Bounty tutorial for beginners _ How to become bug bounty hunter step by step.mp4
+- [ ] Bug bounty before you start.mp4
+- [ ] bug bounty beginner approach _ bug bounty beginner steps _ bug bounty beginner tutorials.mp4
+- [ ] Bug Bounty Beginner step by step _ Bug Bounty Basics _ Bug bounty basic tutorials.mp4
+- [ ] Bug bounty bits_ Note taking.mp4
+- [ ] bug bounty for beginners _ Bug bounty tutorial for beginners _ bug bug bounty hunting beginners.mp4
+- [ ] Bug Bounty Hunting Methodology v2 - Jason Haddix from Bugcrowd's LevelUp 2017.mp4
+- [ ] Bug Bounty Hunting _ Deep Dive -- Part 1.mp4
+- [ ] Bug bounty methodology_ Google DORKs for content discovery (recon 2_3).mp4
+- [ ] Bug Bounty Methodology_ Recon in action.mp4
+- [ ] Bug bounty methodology_ Single target recon (1_3).mp4
+- [ ] Bug bounty methodology_ Wayback machine for content discovery (recon 3_3).mp4
+- [ ] Bug Bounty on Steroids.mp4
+- [ ] Bug Bounty Recon Basics_ The Complete Course (Part 1).mp4
+- [ ] Bug Bounty Redacted #3_ Hacking APIs & XSS, SQLi, WAF Bypass in a regional web application.mp4
+- [ ] Bug bounty starter checklist by KathanP19.mp4
+- [ ] Bug Bounty Tips #3 _ Shodan Dorks.mp4
+- [ ] Bug Bounty Tips & Tweets - Tip#1.mp4
+- [ ] Bug Bounty Tips & Tweets - Tip#2 _ Hunt XSS.mp4
+- [ ] Bug Bounty Tips & Tweets - Tip#3 _ Nuclei - Template Based Vulnerability Detection.mp4
+- [ ] Bug Bounty Tips & Tweets - Tip#4 _ qsreplace - FFUF - Burpsuite _  Low Hanging Fruits.mp4
+- [ ] Bug Bounty Tutorial - Maximise Your Bug Bounty Output With Simple Nmap Script.mp4
+- [ ] Bug Bounty Tutorial for Beginners _ Beginner Bug Bounty _ Beginner Bug Bounty Tutorial.mp4
+- [ ] Bug Hunting - Recon find bugs (Orwa GodFather).mp4
+- [ ] Bug Hunting Tactics By Harsh Bothra.mp4
+- [ ] Bug Hunting_ Recon Methodology.mp4
+- [ ] Bugbounty Tip 2_ Monitoring JavaScript With (GetJS,JSMon & Telegram).mp4
+- [ ] Bugbounty Webinar - Recon,Live attacking, Tools _ Live Bugbounty hunting _ #SECOCEANS.mp4
+- [ ] BugBounty _ Javascript Files Recon _ Beginner.mp4
+- [ ] BURP COLLABRATOR _ WHAT THIS IS AND HOW YOU CAN USE IT TO FIND BLIND SSRF_XSS_SQL _ HINDI🔥🔥.mp4
+- [ ] BURP SUITE Hidden Features _ All Pro Tips Practical [HINDI] #cybersecurity.mp4
+- [ ] Burp Suite tutorial_ IDOR vulnerability automation using Autorize and AutoRepeater (bug bounty).mp4
+- [ ] BUSINESS LOGIC FLAWS _ BEGINEERS MUST WATCH _ BUG BOUNTY _ HINDI _ EP#12🔥.mp4
+- [ ] Bypassing Browser Security Policies for Fun and Profit.mp4
+- [ ] Bypassing MFA _ Rate Limiting Attacks  _ Day - 9 TheQuest _ Parth Shukla _.mp4
+- [ ] Capture, Analyze and Debug HTTPS traffic with MITMProxy.mp4
+- [ ] Catch Me If You Can - Shubham Shah & Michael Gianarakis at 44CON 2018 (1).mp4
+- [ ] Catch Me If You Can - Shubham Shah & Michael Gianarakis at 44CON 2018.mp4
+- [ ] Censys Discovery And Automation_ LIVE BUG BOUNTY HUNTING Part 2 HINDI]🔥 #cybersecurity.mp4
+- [ ] Cloud Penetration Testing Workshop _ SANS Pen Test HackFest Summit 2020.mp4
+- [ ] CNIT 128 6. Analyzing Android Applications (Part 1).mp4
+- [ ] Code that gets you pwn(s_'d) - Louis Nyffenegger (@snyff).mp4
+- [ ] CodeQL Live Episode 1.mp4
+- [ ] Collecting Subdomains - Part 1 _ Amass _ Subfinder _ Assetfinder _ Findomain.mp4
+- [ ] Collecting Subdomains - Part 2 _ Automating the process _ First Steps to your personal Recon Toolkit.mp4
+- [ ] Common API Security Pitfalls - PHILIPPE DE RYCK.mp4
+- [ ] Compromise any GCP Org Via Cloud API Lateral Movement and Privilege Escalation_ Blackhat_Defcon 2020.mp4
+- [ ] CONFidence 2018_ Hacking REST APIs - 20 cases (Michał Sajdak).mp4
+- [ ] Cracking the Lens_ Targeting HTTP's Hidden Attack-Surface.mp4
+- [ ] Create Your Own Ethical Hacking Tools in Python _ How To _ 🔥🔥.mp4
+- [ ] Creating a Recon Database For Recon At Scale.mp4
+- [ ] Creating Custom Nuclei Templates and Workflows.mp4
+- [ ] CrikeyCon 2021 - Shubham Shah - Hacking on Bug Bounties for Five Years.mp4
+- [ ] CRLF Injection Tutorial_ Using Burp Bounty Extension 🔴🔴.mp4
+- [ ] CROSS SITE SCRIPTING FILTER _ ADVANCE XSS VIDEO _ BUG BOUNTY COURSE IN HINDI _ XSS 🔥🔥.mp4
+- [ ] CROSS SITE SCRIPTING IDEAS _ REACTING TO XSS REPORTS _ LIVE EXAMPLE _ BUG BOUNTY COURSE IN HINDI🔥🔥.mp4
+- [ ] CROSS SITE SCRIPTING IN COOKIES _ LET'S CHECK IT IN REALITY 🔥🔥.mp4
+- [ ] CROSS SITE SCRIPTING IN HINDI _ HOW TO FIND XSS _BUG BOUNTIES METHODS _EP#5🔥.mp4
+- [ ] CSRF Apprentice Tips And Tricks Demonstrated - PortSwigger labs.mp4
+- [ ] CSRF REAL LIFE EXAMPLE _ CSRF,CORS, SAME ORIGIN POLICY EXPLAINED IN HINDI _ PART 1🔥.mp4
+- [ ] CSRF_ not all defenses are created equal - Ari Elias-Bachrach.mp4
+- [ ] Cyber Crime, How Bad Can it Be_ w_ Retia.mp4
+- [ ] Cyber Security Engineer - Amazing Journey 🔥Bug Bounty Hunter 🔴Make 6 Figure Income 🔥.mp4
+- [ ] Cyber4All Webinar_ Hacking Web apps with RCE and Prototype Pollution.mp4
+- [ ] Cybersecurity Training at almost no cost!! _ Pathshala Updates🔥.mp4
+- [ ] David Sopas _ Paulo Silva - API (in)Security TOP 10_ Guided tour - DEF CON 28SM AppSec Village.mp4
+- [ ] DEF CON 22   Screw Becoming A Pentester   When I Grow Up I Want To Be A Bug Bounty Hunter!.mp4
+- [ ] DEF CON 22- David Wyde - Client-Side HTTP Cookie Security_ Attack and Defense.mp4
+- [ ] DEF CON 23 - Jason Haddix - How to Shot Web_  Web and mobile hacking in 2015.mp4
+- [ ] DEF CON 23 - Nemus - Hacking SQL Injection for Remote Code Execution on a LAMP Stack.mp4
+- [ ] DEF CON 25 - Jason Haddix - Introducing HUNT  Data Driven Web Hacking & Manual Testing.mp4
+- [ ] DEF CON 25 - Luke Young - There’s no place like 127.001_ Achieving reliable DNS rebinding.mp4
+- [ ] DEF CON 25 Recon Village - Abhijeth Dugginapeddi - Recon and Bug Bounties What A Great Love Story.mp4
+- [ ] DEF CON 26 - ldionmarcil - Edge Side Include Injection Abusing Caching Servers into SSRF (1).mp4
+- [ ] DEF CON 26 - ldionmarcil - Edge Side Include Injection Abusing Caching Servers into SSRF.mp4
+- [ ] DEF CON 26 - Orange Tsai - Breaking Parser Logic Take Your Path Normalization Off and Pop 0Days Out.mp4
+- [ ] DEF CON 26 RECON VILLAGE - mgianarakis - Supercharge Your Web Recon With Commonspeak.mp4
+- [ ] DEF CON 29 - James Kettle -  HTTP2_ The Sequel is Always Worse.mp4
+- [ ] DEF CON 29 - Martin Doyhenard - Response Smuggling_ Pwning HTTP 1 1 Connections.mp4
+- [ ] DEF CON 30 - Samuel Erb, Justin Gardner - Crossing the KASM - a Webapp Pentest Story.mp4
+- [ ] DEF CON Safe Mode Demo Labs - Ajin Abraham - Mobile App Security Testing with MobSF.mp4
+- [ ] DEFCON 19_ Don't Drop the SOAP_ Real World Web Service Testing for Web Hackers (w speaker).mp4
+- [ ] DEFCON 19_ Smartfuzzing the Web.mp4
+- [ ] Defcon 21 - Abusing NoSQL Databases.mp4
+- [ ] Demo of the Cobalt.io pentesting platform_ detecting and reporting vulnerabilities.mp4
+- [ ] Demo_ FireProx and how it works!.mp4
+- [ ] Demystifying Bug Bounties_ Insights from a Decade of Experience - Yassine Aboukir.mp4
+- [ ] Demystifying Reverse Proxy Misconfigurations.mp4
+- [ ] Designing a Secure Software Development Lifecycle with DevOps - Mike Long.mp4
+- [ ] Detect file path traversal by Burp Suite intruder + regext.mp4
+- [ ] Discovering Hidden Properties to Attack the Node.js Ecosystem.mp4
+- [ ] DJ TOPHAZ THROWBACK RIDE Video Mix OLD SCHOOL R&B (www.mixx.tube) Mixx Tube Exclusive 🔥.mp4
+- [ ] DNS hijacking using cloud providers - Frans Rosén - Security Fest 2017 (1).mp4
+- [ ] DNS hijacking using cloud providers - Frans Rosén - Security Fest 2017.mp4
+- [ ] Doing recon like a boss - Ben Sadeghipour, Bugcrowd's LevelUp 2017.mp4
+- [ ] DOM INVADER - How To Find DOM XSS Vulnerability Easily_ 🔥🔥.mp4
+- [ ] Domain Admin via IPv6 DNS Takeover.mp4
+- [ ] Dominik Kundel_ XSS, CSRF, CSP, JWT, WTF_ IDK ¯__(ツ)__¯ _ JSConf Iceland 2018.mp4
+- [ ] Dumping S3 Buckets _ Exploiting S3 Bucket Misconfigurations.mp4
+- [ ] Eliminating False Assumptions in Bug Bounties - Frans Rosén @fransrosen.mp4
+- [ ] Ep 1 - Getting Started with Bug bounty by RESETHACKER.mp4
+- [ ] ep01 - CTF TEARDOWN  - HackerOne CodeCanCare 100k CTF.mp4
+- [ ] Esoteric sub-domain enumeration techniques - Bharath, from Bugcrowd's LevelUp 2017.mp4
+- [ ] Ethical Hacking and bug bounty _ Finding your first bug.mp4
+- [ ] EVERYTHING ABOUT HTTP REQUEST SMUGGLING ALONG WITH POC _ BUG BOUNTY _ CYBERSECURITY.mp4
+- [ ] Everything you need to know about client-side malicious code execution.mp4
+- [ ] Ex-NSA hacker tells us how to get into hacking!.mp4
+- [ ] Exploit Advanced File Upload Vulnerability.mp4
+- [ ] Exposing Security Flaws in Trading Technologies - Alejandro Hernandez - AppSecUSA 2018.mp4
+- [ ] Facebook Bug PoC_ The malicious person add people to the _Top Fans_ list without authorization.mp4
+- [ ] ffuf + raw request + Burp Suite.mp4
+- [ ] ffuf regex.mp4
+- [ ] ffuf scripts and tricks [NahamCon 2021].mp4
+- [ ] File path traversal ffuf + regex.mp4
+- [ ] FILE UPLOAD & INCLUSION,COMMAND INJECTION _ HOW TO FIND BUGS IN HINDI _ BUG BOUNTIES METHODS _ EP#3🔥.mp4
+- [ ] Find bugs faster with fuzzing by Alper Basaran.mp4
+- [ ] Finding Bugs in Mobile APIs.mp4
+- [ ] Finding Hidden Gems in Old Bug Bounty Programs - Yappare, Bugcrowd's LevelUp 2017.mp4
+- [ ] Finding security vulnerabilities in Java with CodeQL - GitHub Satellite 2020.mp4
+- [ ] Finding security vulnerabilities in JavaScript with CodeQL - GitHub Satellite 2020.mp4
+- [ ] Finding your first bug _ First Security Issue _ Get started in Bug Bounties.mp4
+- [ ] Finding Your First Bug_ Business Logic Errors (1).mp4
+- [ ] Finding Your First Bug_ Business Logic Errors.mp4
+- [ ] Finding Your First Bug_ Finding Bugs Using APIs.mp4
+- [ ] Finding Your First Bug_ Manual IDOR Hunting.mp4
+- [ ] Firewall Penetration Testing_ Steps, Methods, & Tools _ PurpleSec.mp4
+- [ ] Flawed CSRF Protection - State Param - Hacking Oauth Pt . 2 _ Live Demo on Medium.com.mp4
+- [ ] Frans Rosén - Breaking and abusing specifications and policies - SecurityFest 2018 (1).mp4
+- [ ] Frans Rosén - Breaking and abusing specifications and policies - SecurityFest 2018.mp4
+- [ ] Frans Rosén Keynote at BSides Ahmedabad.mp4
+- [ ] Frans Rosén The Secret life of a Bug Bounty Hunter - Security Fest 2016.mp4
+- [ ] Free Automated Recon Using Github Actions _ Ft. Project Discovery.mp4
+- [ ] Free Bug Bounty Live Class - 1_ What Target Do I Pick And How Do I Hack It_.mp4
+- [ ] Full bug bounty methodology to get you started V 2.0 (Say cheese).mp4
+- [ ] Full bug bounty methodology to help you get started.mp4
+- [ ] Full Ethical Hacking Course - Beginner Network Penetration Testing (2019).mp4
+- [ ] Full Free Course_ Android Bug Bounty Hunting.mp4
+- [ ] Fuzzing & Sensitive File Enumeration with FFUF.mp4
+- [ ] Fuzzing Sensitive Files Enumeration With FFUF Bug Bounty - Protik Sarker.mp4
+- [ ] Fuzzing XSS Sanitizers for Fun and Profit _ Tom Anthony.mp4
+- [ ] Fuzzing, DevOps, and You_ Getting to Know Fuzzing.mp4
+- [ ] Gal Nagli - Vulnerability Inheritance - Attacking through 3rd party - DEF CON 29 AppSec Village.mp4
+- [ ] Gamified Hacking Ep_5 _ Three Common Mistakes in Bug Bounty Automation!.mp4
+- [ ] Garage4Hackers Ranchoddas WebCast on SSRF_XSPA _ Series 2015 Edition.mp4
+- [ ] Garage4Hackers Ranchoddas Webcast on XSS Protection Bypass By Ashar Javed.mp4
+- [ ] Garage4Hackers Ranchoddas Webcast Series - Bypassing Modern WAF's Exemplified At XSS by Rafay Baloch.mp4
+- [ ] Getting started with Github for Security Professionals and Bug Bounty Hunters.mp4
+- [ ] GF Patterns Features & Limitations for Penetration Testing & Bug Bounties.mp4
+- [ ] GitDorker - GitHub Recon Simplified for Bug Bounty, Red Teams, and Penetration Testers.mp4
+- [ ] GITHUB DORKING _ A SMART RECON TO FIND SENSITIVE INFORMATION _ HINDI TUTORIAL 🔥🔥(Easy).mp4
+- [ ] GitHub Recon and Sensitive Data Exposure.mp4
+- [ ] Giving Back to the Bug Bounty Community - ZSeano, Bugcrowd's LevelUp 2017.mp4
+- [ ] Good vs. Bad Security Tweets.mp4
+- [ ] Google Drive Improper Access Control POC - $0.mp4
+- [ ] GraphQL APIs from bug hunter's perspective by Nikita Stupin.mp4
+- [ ] h@ckivitycon 2020_ Cached and Confused_ Web Cache Deception in the Wild.mp4
+- [ ] h@cktivitycon 2020_ Discover vulnerabilities with CodeQL.mp4
+- [ ] h@cktivitycon 2020_ WAF Bypass In Depth (1).mp4
+- [ ] h@cktivitycon 2020_ WAF Bypass In Depth.mp4
+- [ ] h@cktivitycon 2020_ You've got pwned_ exploiting e-mail systems.mp4
+- [ ] Hack The Box Hacking Battlegrounds  - Cyber Mayhem Gameplay with Ippsec.mp4
+- [ ] HackadayU_ Reverse Engineering with Ghidra Class 1.mp4
+- [ ] HackadayU_ Reverse Engineering with Ghidra Class 2.mp4
+- [ ] HackadayU_ Reverse Engineering with Ghidra Class 3.mp4
+- [ ] HackadayU_ Reverse Engineering with Ghidra Class 4.mp4
+- [ ] Hacker Breaks Down 26 Hacking Scenes From Movies & TV _ WIRED.mp4
+- [ ] Hacker Breaks Down Hacking Scenes From Movies & TV _ WIRED.mp4
+- [ ] Hacker Explains One Concept in 5 Levels of Difficulty _ WIRED.mp4
+- [ ] Hackfest 2015_ Nicolas Grégoire presented _Server Side Browsing_.mp4
+- [ ] Hacking ELECTRON_ JavaScript Desktop Applications w_ 7aSecurity.mp4
+- [ ] Hacking IIS (Recon) (Part 1).mp4
+- [ ] Hacking Internet of Things for Bug Bounties - Aditya Gupta, LevelUp 2017.mp4
+- [ ] Hacking into Google's Network for $133,337.mp4
+- [ ] Hacking JWTs for Beginners with Farah Hawa.mp4
+- [ ] Hacking NodeJS applications for fun and profit Testing NodeJS Security.mp4
+- [ ] HACKING OAuth 2.0 FOR BEGINNERS!.mp4
+- [ ] Hacking Oauth Applications - Pt. 1.mp4
+- [ ] Hacking REST API For  IDOR _ XSS _ Logical attacks And Fuzzing For Your First Bug With Burp Suite.mp4
+- [ ] Hacking REST APIs - SQL Injection.mp4
+- [ ] Hacking Tips - Finding new Tools and Techniques Using Github.mp4
+- [ ] Hacking with Go - Victoria Almazova.mp4
+- [ ] Hacking_Reverse Engineering a PRIVATE api.mp4
+- [ ] HackTheBox Cyber Apocalypse 2021 CTF - Web Challenge Walkthroughs.mp4
+- [ ] Halsey - Without Me.mp4
+- [ ] Hidden in Plain Site_ Disclosing Information via Your APIs - Peter Yaworski, Bugcrowd's LevelUp 2017.mp4
+- [ ] HIP15-TALK_Server side browsing considered harmful.mp4
+- [ ] Host CTFs with CTFd in Digital Ocean _ Complete Setup Guide.mp4
+- [ ] HOST HEADER ATTACK FOR BUG BOUNTY EDUCATION PURPOSE VLOG #1🔥.mp4
+- [ ] How Abusing Docker API Led to Remote Code Execution, Same Origin Bypass & more.mp4
+- [ ] How do i test for blind command injection_ 🤔.mp4
+- [ ] How does unicode affect our security_ - Christopher Bleckmann-Dreher,  LevelUp 2017.mp4
+- [ ] How I hacked 30 mobile banking apps & the future of API Security, Alissa Knight, Aite Group.mp4
+- [ ] How I made 1k in a day with IDORs! (10 Tips!).mp4
+- [ ] HOW MUCH PROGRAMMING IS REQUIRED FOR BUG HUNTING _ THIS IS HOW IT HELPED ME TO FIND RCE _ HINDI🔥🔥.mp4
+- [ ] How the Best Hackers Learn Their Craft.mp4
+- [ ] How to Analyze Code for Vulnerabilities.mp4
+- [ ] HOW TO APPROACH A NEW BOUNTY TARGET_ 5 THINGS YOU MUST TEST FOR!.mp4
+- [ ] HOW TO APPROACH BUG BOUNTY TARGET _ METHODOLOGY FOR HACKING _ BUG BOUNTY BEGINEERS COURSE IN HINDI🔥.mp4
+- [ ] How to Automate Steps using Macro _ Burp Suite Bug Bounty Automation🔥.mp4
+- [ ] How to become a Bug Bounty Hunter.mp4
+- [ ] How to Bypass SSL Pinning on Android Applications.mp4
+- [ ] How to Differentiate Yourself as a Bug Bounty Hunter - Mathias Karlsson @avlidienbrunn.mp4
+- [ ] How to do Chrome Extension code reviews - w_BreanneBoland.mp4
+- [ ] How to do Code Review  ▪  Shubham _Shubs_ Shah ▪  Ekoparty 2021_ Bug Bounty Space.mp4
+- [ ] How to do Code Review - The Offensive Security Way.mp4
+- [ ] How to do mobile application penetration testing, Part I.mp4
+- [ ] How to excel at penetration testing _ Cyber Work Podcast.mp4
+- [ ] How to Fail at Bug Bounty Hunting - Caleb Kinney, Bugcrowd's LevelUp 2017.mp4
+- [ ] How to find a bug, from invite to bounty _ @InsiderPhD.mp4
+- [ ] HOW TO FIND CSRF VULNERABILITY IN HINDI_ (PART 2)🔥.mp4
+- [ ] How to find Low Hanging Bugs on Login Page _ Bug Bounty Tips 🔥🔥 (1).mp4
+- [ ] How to find Low Hanging Bugs on Login Page _ Bug Bounty Tips 🔥🔥.mp4
+- [ ] How to find vulnerabilities by source code review and how to write scripts to exfiltrate data.mp4
+- [ ] How To Get Started In Bug Bounties_ Beginner Tips.mp4
+- [ ] HOW TO GET STARTED IN BUG BOUNTY (9x PRO TIPS).mp4
+- [ ] how to get started in bug bounty _ how to get started in bug bounties _ BUG bounty hunting.mp4
+- [ ] How to go deep to find vulnerabilities_ LIVE BUG BOUNTY HUNTING[HINDI]🔥 #cybersecurity.mp4
+- [ ] How to Launch a Career in Application Security.mp4
+- [ ] How to Master FFUF for Bug Bounties and Pen Testing.mp4
+- [ ] How To Not Get Blocked By Firewall While Bug Hunting _ IP Rotate Extensions _ Burp Suite.mp4
+- [ ] How To Shot Web - Jason Haddix's talk from DEFCON23.mp4
+- [ ] How To Test For Reflected XSS.mp4
+- [ ] How to use Param Miner to detect fat GET cache poisoning.mp4
+- [ ] HOW TO WRITE REPORTS FOR BUG BOUNTY _ MUST WATCH FOR BEGINEER _ GOOD REPORT WRITTING TIPS _ HINDI✔✔.mp4
+- [ ] HTTP REQUEST SMUGGLING_ LET'S LEARN HOW TO FIND IT WITH THIS LABS🔥🔥.mp4
+- [ ] HTTP Smuggling Examples 2016.mp4
+- [ ] HTTPS REQUEST SMUGGLING_ Detailed Video Ever🔥🔥[Hindi].mp4
+- [ ] Hunting Asynchronous Vulnerabilities   Presented By James Kettle.mp4
+- [ ] Hunting for IDORs with Katie Paxton-Fear.mp4
+- [ ] Hunting for uncommon bugs in Client Side Applications  _ Youssef Sammouda _ VULNCON 2021 _ NOOB ARMY.mp4
+- [ ] Hunting for vulnerabilities with Joern, open-sourced code analysis tool. VLC Buffer Overflow Example.mp4
+- [ ] Hunting Logic Attacks -  A Peak At SEC552_ Bug Bounties & Responsible Disclosure.mp4
+- [ ] Hunting Security Bugs In Web Apps - Suleman Malik.mp4
+- [ ] I Hacked This Api in less than 20 min.mp4
+- [ ] Identifying & Avoiding Android app Protections - Tim Strazzere, LevelUp 2017.mp4
+- [ ] Identity Theft_ Attacks on SSO Systems.mp4
+- [ ] IDOR and password poisoning by Vishal G Pathak _ Day 9 _ TheQuest _ 2020 - 0x02.mp4
+- [ ] IDOR_INSECURE DIRECT OBJECT REFERENCE _ WHAT IS IDOR IN HINDI_ _ HOW TO FIND IDOR _ BUG BOUNTY HINDI.mp4
+- [ ] Improve Your Hacking Skills Using Devtools _ Bug Bounty Tips.mp4
+- [ ] InfoSec Journeys #8 - TomNomNom.mp4
+- [ ] Insecure Deserialization Vulnerability in Hindi _ Spin The Hack Pathshala Video Demo🔥.mp4
+- [ ] Insecure Direct Object Reference (IDOR) Explained.mp4
+- [ ] InsecurityTube __ Blind Cross-Site-Scripting (bXSS) __ Tutorial.mp4
+- [ ] INTERVIEW WITH @Th3G3nt3lman __ RECON, METHODOLOGY, LEARNING ETC..mp4
+- [ ] Intro to Open Source Recon.mp4
+- [ ] Introduction to tmux.mp4
+- [ ] IPv6 for Pentesters - Owen Shearing.mp4
+- [ ] James Kettle - Backslash Powered Scanning_ Implementing Human Intuition.mp4
+- [ ] James Kettle - Exploiting CORS Misconfigurations for Bitcoins and Bounties - AppSecUSA 2016.mp4
+- [ ] JavaScript Enumeration in practice with a live example #bugbounty #pentest #hacking.mp4
+- [ ] JavaScript Prototype Pollution - Part 1.mp4
+- [ ] JavaScript Prototype Pollution - Part 2.mp4
+- [ ] Joshua Maddux - API Induced SSRF How ApplePay Scattered Vulns Across the Web - DEF CON 27 Conference.mp4
+- [ ] Journey to the Top on BugCrowd_ The Untold Tales of Struggle and Pain - Ahmad Ashraff - CHCon 2017.mp4
+- [ ] JS Prime - Javascript Static Code Analysis for DOM XSS.mp4
+- [ ] JSON Hijacking On The Modern Web - Gareth Heyes @OWASPLondon.mp4
+- [ ] Kali on Windows WSL for Pentester & Bug Bounty Hunter _ Local Recon _  Hacking Machine _ No VPS _ VM.mp4
+- [ ] Keep Your Code Safe During the Development Path Using Open Source Tools by Filipi Pires.mp4
+- [ ] Kevin Johnson & Jason Gillam - Next Gen Web Pen Testing - AppSecUSA 2016.mp4
+- [ ] LEARN ADVANCE BUG BOUNTY THINGS _ ONLY FOR BEGINEERS _BEST CYBERSECURITY INSIDER TECHNIQUES🔥{HINDI }.mp4
+- [ ] Learn How To Find SSRF Vulnerability In Web Application _ SSRF Made Easy To Learn Detect _ Identify.mp4
+- [ ] Learn mitmproxy #1 - Record, Replay, Intercept, and Modify HTTP Requests.mp4
+- [ ] Learn mitmproxy #2 - Record, Replay, Intercept, and Modify HTTP Requests using mitmweb.mp4
+- [ ] Learn mitmproxy #3 - Record and Replay HTTP Requests using mitmdump.mp4
+- [ ] Learn Race Condition_Bufferoverflow Vulnerability in Hindi🔥 [Pathshala Demo Video].mp4
+- [ ] Learn with @DarkLotusKDB_ Recon with Shodan & Spyse,XSS, Bypass OpenRedirects, SSRF, BugBunty Bot!!!.mp4
+- [ ] Learn with @HolyBugx_ Demystifying Cookies and Tokens !!.mp4
+- [ ] Learn with @R0X4R_ Recon Automation & How To Approach For Help!!..mp4
+- [ ] Learning Server Side Request Forgery (SSRF) Basics Using Portswigger's Web Security Academy.mp4
+- [ ] Lesson 14_ XSS Blacklist bypass _ XSS Black list validation _ XSS input validatiob bypass.mp4
+- [ ] Lets discuss SSRF_RCE..mp4
+- [ ] LevelUp 0x02 - Bug Bounty Hunter Methodology v3.mp4
+- [ ] LevelUp 0x02 - Hacking OAuth 2.0 For Fun And Profit (1).mp4
+- [ ] LevelUp 0x02 - Hacking OAuth 2.0 For Fun And Profit (2).mp4
+- [ ] LevelUp 0x02 - Hacking OAuth 2.0 For Fun And Profit.mp4
+- [ ] LevelUp 0x02 - Hardware Hacking 101.mp4
+- [ ] LevelUp 0x02 - Small Files And Big Bounties, Exploiting Sensitive Files.mp4
+- [ ] LevelUp 0x02 - Trickle Down PwnOnomics.mp4
+- [ ] LevelUp 0x04 - Fun with Frida on Mobile.mp4
+- [ ] LFI Explained _ LFI Waf Bypass (Live Target).mp4
+- [ ] Lightning Talk_ OAuth 2.0 Misimplementation, Vulnerabilities and Best Practices - Pak Foley.mp4
+- [ ] Linux Essentials for Ethical Hackers - Full InfoSec Course.mp4
+- [ ] Live API Hacking Demo.mp4
+- [ ] LIVE from Las Vegas_ Frans Rosen - How to Win Over Security Teams and Gain Influence as a Hacker.mp4
+- [ ] Live GitLab Ask a Hacker with Bug Bounty Hunter (@ajxchapman) Alex Chapman (Public).mp4
+- [ ] Live Mapping of Bug Hunting Target _ This can help you find more bugs🔥 #bugbountytips.mp4
+- [ ] Live Recon on Rockstar Games With @zseano​.mp4
+- [ ] Live Recon on Sony by Praveen  Thiyagarayam _ (aka) @iam403.mp4
+- [ ] Live Stream Exploitation of F5 Big IP CVE-2020-5902 for Bug Bounties.mp4
+- [ ] LiveQL Episode 2 - The Rhino in the room..mp4
+- [ ] Livestream Recon and QnA.mp4
+- [ ] Local Recon Machine - Kali on Windows ft. WSL _ Final Part - Pt.2 _ Recon on a live site.mp4
+- [ ] Manual Broad Scope Bug Bounty Methodology.mp4
+- [ ] Mateusz Olejarka - REST API, pentester's perspective.mp4
+- [ ] Meetups at Checkmarx_ An Introduction to API Security.mp4
+- [ ] Meetups at Checkmarx_ API Security Concerns (Part II).mp4
+- [ ] Metadata 101 and Web App Pentesting with Selenium and Burp Suite 3-17-2021.mp4
+- [ ] Mikhail Egorov - Hunting for bugs in Adobe Experience Manager webapps (1).mp4
+- [ ] Mikhail Egorov - Hunting for bugs in Adobe Experience Manager webapps.mp4
+- [ ] mitmproxy_ lifting the veil on HTTPS communication - Ross Heflin.mp4
+- [ ] Mobile Application Dynamic Analysis.mp4
+- [ ] Mobile Penetration Testing_ Episode II - Return of the Back-end_Network.mp4
+- [ ] Mobile Penetration Testing_ Episode III - Attack of the Code.mp4
+- [ ] Modern web application bugs - Erlend Oftedal (1).mp4
+- [ ] Modern web application bugs - Erlend Oftedal (2).mp4
+- [ ] Modern web application bugs - Erlend Oftedal.mp4
+- [ ] Motivations of a bug bounty hunter.mp4
+- [ ] My own basic bounty methodology_ Bug Bounty Bytes.mp4
+- [ ] NahamCon 2021 - Introduction to Axiom - The Dynamic Infrastructure Framework for Everybody! @pry0cc.mp4
+- [ ] Nahamcon 2021 CTF Challenges _ Web Exploitation _ _Echo_.mp4
+- [ ] NahamCon2021 - Hacking IIS - @infosec_au.mp4
+- [ ] NahamCon2021 - Putting Your Mind to It_ Bug Bounties for 12 Months - @zseano.mp4
+- [ ] Networking Fundamentals.mp4
+- [ ] NGINX_ misconfigurations examples.mp4
+- [ ] Nicolas Grégoire - Hunting for Top Bounties.mp4
+- [ ] Node JS - Reverse Engineering APIs (2020).mp4
+- [ ] NOSQL web application vulnerabilities and mitigation - AMIR LUCKACH.mp4
+- [ ] Nuclei Template Generator Extension For Burp Suite !! #bugbounty #burpsuite.mp4
+- [ ] Nuclei Vulnerability Scanner_ Best Bug Bounty Tool _ Tutorial in Hindi🔥.mp4
+- [ ] nullcon Goa 2017 - Bug Bounty Reports_ How Do They Work by Adam Bacchus.mp4
+- [ ] nullcon Goa 2017 - Nearly Generic Fuzzing Of XML Based Formats by Nicholas Gregoire.mp4
+- [ ] OAuth 2.0 Security Introduction - Jim Manico.mp4
+- [ ] OAuth 2.0_ An Overview.mp4
+- [ ] obsedian.py
+- [ ] Offensive AndroHunter Course Teaser _ HackersEra _ Vikash Chaudhary _ ABIR Networks.mp4
+- [ ] Offensive Bug Bounty Hunter 2.0 Teaser.mp4
+- [ ] Offensive Recon - Bug Hunter's Playbook #bugbounty #infosec (1).mp4
+- [ ] Offensive Recon - Bug Hunter's Playbook #bugbounty #infosec.mp4
+- [ ] OSI WEBINAR _ Penerapan OSINT dalam DARK WEB.mp4
+- [ ] OSINT The Art of Finding Information on Anyone.mp4
+- [ ] Overview of common Android app vulnerabilities - LevelUp 0x05.mp4
+- [ ] OWASP Chandigarh_ How to get started in bug bounties + business logic flaws.mp4
+- [ ] OWASP Code Pulse and Attack Surface Detector - Ken Prole.mp4
+- [ ] OWASP DevSlop Show_ Security Code Review 101 with Paul Ionescu!.mp4
+- [ ] OWASP Norway Day - Modern Web Application Vulnerabilities - Erlend Oftedal.mp4
+- [ ] OWASP Serverless Top 10 - TAL MELAMED.mp4
+- [ ] OWASP Standard Classification_ How To Review Code For Vulnerabilities - Vickie Li.mp4
+- [ ] OWASP Top 10 for JavaScript Developers - LEWIS ARDERN.mp4
+- [ ] Package Dependency Confusion Vulnerability  _ Advance Bug Bounty Tutorials _ Hindi🔥Part 1 #bugbounty.mp4
+- [ ] Part 2 Package Dependency Confusion Vulnerability  _ Advance Bug Bounty Tutorials _ Hindi #bugbounty.mp4
+- [ ] Passive-ish Recon Techniques by Tom Hudson (1).mp4
+- [ ] Passive-ish Recon Techniques by Tom Hudson.mp4
+- [ ] Pause DeSync Attack _ Access 403 Forbidden _ 404 Not Found _ #bugbounty HINDI.mp4
+- [ ] Pentesting NoSQL DB’s Using NoSQL Exploitation Framework - Presented By Francis Alexander.mp4
+- [ ] Peter Yaworski - Hackers Gonna Hack - Identifying & Fixing Vulnerabilities Proactively _ Øredev 2018.mp4
+- [ ] PHP Security by Frans Rosén - PHP meetup 2016-05-11.mp4
+- [ ] Piercing The Veil_ Server Side Request Forgery Attacks On Internal Networks - Alyssa Herrera.mp4
+- [ ] Pivoting in Amazon Clouds.mp4
+- [ ] Pivoting with Proxychains for bug bounty hunter and penetration testers.mp4
+- [ ] Portable Data exFiltration XSS for PDFs - Gareth Heyes.mp4
+- [ ] PortSwigger Labs - DOM XSS in jQuery selector sink using a hashchange event.mp4
+- [ ] Practical Attacks Using HTTP Request Smuggling by @defparam #NahamCon2020.mp4
+- [ ] Practical HTTP Header Attacks - Johan Rydberg Möller.mp4
+- [ ] Preventing Authentication Bypass_ A Tale of Two Researchers.mp4
+- [ ] Project Ava - Can Machine Learning Be Used To Complement Web Penetration Testing_ - Matt Lewis.mp4
+- [ ] Proof of Concept_ CVE-2018-2894 Oracle WebLogic RCE.mp4
+- [ ] Pwning Your Java Messaging With Deserialization Vulnerabilities.mp4
+- [ ] Racing the Web (Aaron Hnatiw).mp4
+- [ ] Rat Reviews Bug Bounty Testing Strategies - Vol 2.mp4
+- [ ] RCE with Burp Suite intruder + Regex.mp4
+- [ ] REAL LIFE IMPACT OF XSS _ WHAT NEXT AFTER XSS POPUP🔥🔥BUG BOUNTY IN HINDI.mp4
+- [ ] Recognition Primed Bug Bounty Hunting - w_Rhys Elsmore (@rhyselsmore).mp4
+- [ ] Recon & Discovery.mp4
+- [ ] Recon - Scan them all _ Port Scanning ft. nmap + Short Videos  Announcement.mp4
+- [ ] Recon 01 - Recon Infrastructure Map  Setting up VPS + Assetfinder + Subfinder - Bug Bounty - Ep - 03.mp4
+- [ ] Recon for Bug bounty By Hacklido with @Y0gisec.mp4
+- [ ] Reflected File Download - A New Web Attack Vector.mp4
+- [ ] REGEX VULNERABILITIES HUNTING EXPLAINED IN DETAILS _ BUG BOUNTIES IN HINDI🔥🔥.mp4
+- [ ] Reverse Engineering a Private API with mitmproxy.mp4
+- [ ] Reverse Engineering Private API's with Postman.mp4
+- [ ] Reverse Engineering WhatsApp Encryption for Chat Manipulation and More.mp4
+- [ ] Reversing Engineering a Web Application - For Fun, Behavior & WAF Detection - OWASP AppSecUSA 2014.mp4
+- [ ] Revisiting XSS Sanitization.mp4
+- [ ] RomHack 2023 - Orange Tsai - A 3-Year Tale of Hacking a Pwn2Own Target_ The Attacks, Vendor [...].mp4
+- [ ] RuhrSec 2017_ _Secrets of the Google Vulnerability Reward Program_, Krzysztof Kotowicz.mp4
+- [ ] SANS Webcast_ A Practical Introduction into How to Exploit Blind Vulnerabilities.mp4
+- [ ] scan or find vulnerability of any Android app using Android termux Androbug -framework.mp4
+- [ ] Scope Review and Bug Hunting Using Github Dorks - Bug Bounty - Ep - 02.mp4
+- [ ] Secondary Context Path Traversal [Pro Technique].mp4
+- [ ] Secret Pentesting Techniques Dave Kennedy.mp4
+- [ ] Securi-Tay 2020_ Saving user data one company at a time - Hacking with zseano - Sean Roesner.mp4
+- [ ] Securing the System_ A Deep Dive into Reversing Android Pre-Installed Apps.mp4
+- [ ] SecuriTEA & Crumpets - Episode 6 - Gareth Heyes - Hackvertor.mp4
+- [ ] Security Reconnaissance with Codingo  How New Tricks Let Hackers See More.mp4
+- [ ] Security Testing _ Pentesting Rest API For Vulnerability And  Bug bounty with Burp suite & Overview.mp4
+- [ ] Self XSS  we’re not so different you and I - Mathias Karlsson - Security Fest 2017 (1).mp4
+- [ ] Self XSS  we’re not so different you and I - Mathias Karlsson - Security Fest 2017.mp4
+- [ ] Server Side Request Forgery.mp4
+- [ ] Server Side Template Injection - SSTI Vulnerability _ Detailed Explanation and Practical🔥🔥[Hindi].mp4
+- [ ] Server-Side Template Injection_ RCE For The Modern Web App (1).mp4
+- [ ] Server-Side Template Injection_ RCE For The Modern Web App (2).mp4
+- [ ] Server-Side Template Injection_ RCE For The Modern Web App.mp4
+- [ ] Serverless Infections_ Malware Just Found a New Home - Erez Yalon - AppSecUSA 2018.mp4
+- [ ] Shopify’s $25k Bug Report, and the Cluster Takeover That Didn’t... - Greg Castle & Shane Lawrence.mp4
+- [ ] Shubham Shah_ From Burgers to Bounties (Ep. 30).mp4
+- [ ] Snyking In - Directory traversal vulnerability exploit in the st package.mp4
+- [ ] Social Engineer Your Way Into Your First InfoSec Job with Volkis.mp4
+- [ ] Soroush Dalili - File in the hole!.mp4
+- [ ] SQL Injection Hacking Tutorial (Beginner to Advanced).mp4
+- [ ] SQL INJECTION VULNERABILITY _ BUG BOUNTY COURSE _ HINDI _ EP#15🔥.mp4
+- [ ] SSRF - Practical.mp4
+- [ ] SSRF for Bug Bounties - Rishabh Nigam.mp4
+- [ ] Starting into Smart Contract Security _ IWCON-W22 Talk by Shashank.mp4
+- [ ] STORY OF SQL INJECTION _ PRACTICAL REAL LIFE VIDEO _ EXPLAINED _ HOW TO DO SQL INJECTION IN HINDI🔥🔥.mp4
+- [ ] Stream 00 _ How to Bypass WAF for your XSS ! (OSINT Bonus) 🔥.mp4
+- [ ] Subdomain Scrapping vs Subdomain Brute forcing _ Subdomain Enumeration Techniques _ Recon-Ng 🔥🔥.mp4
+- [ ] Subdomain takeover, CSRF, IDOR, XSS, Code review and many more! [CTF walkthrough] #bugbounty.mp4
+- [ ] Tackling application security, hacking, and bug bounties - Interview with Pete Yaworski.mp4
+- [ ] Tales of a Bug Bounty Hunter - Arne Swinnen.mp4
+- [ ] Tech Segment_ Second Order Attacks with Ferruh Mavituna, Netsparker Paul's Security Weekly #512.mp4
+- [ ] TECHDAY 5_ HACKING WEB APPLICATION API’S.mp4
+- [ ] Testing and Hacking APIs   INON SHKEDY.mp4
+- [ ] The Anatomy Of An XSS Attack Vector.mp4
+- [ ] The Bug Hunter's Methodology Full 2-hour Training by Jason Haddix.mp4
+- [ ] The Bug Hunter’s Methodology Jason Haddix @jhaddix.mp4
+- [ ] The Curse of Cross-Origin Stylesheets - Web Security Research.mp4
+- [ ] The first ever live hacker mentoring with zseano.mp4
+- [ ] The innerHTML Apocalypse - How mXSS attacks change everything we believed to know so far.mp4
+- [ ] The Plan - Finding a program - Bug Bounty - Ep - 01.mp4
+- [ ] The Web's Security Model in 2017 - Philippe De Ryck.mp4
+- [ ] THREAT CON 2022- Automation for Manual Bug Bounty Hunters By Eugene Lim (spaceraccoonsec).mp4
+- [ ] Tim Tomes _LanMaSteR53__ Next Generation Web Reconnaissance.mp4
+- [ ] TIPS TO FIND CSRF _ PART 3🔥.mp4
+- [ ] Today I Found An SSTI, But I Did Not Report it! 😳.mp4
+- [ ] TomNomNom answers questions for 4 hours straight.mp4
+- [ ] Tool Time - SSL Certificate Parsers.mp4
+- [ ] ToolTime - FeroxBuster (Content Discovery).mp4
+- [ ] Top 4 Open Source Penetration Testing Methodologies _ Microsoft,Boeing, Intel and other Uses.mp4
+- [ ] TR19_ I'm in your cloud, reading everyone's emails - hacking Azure AD via Active Directory.mp4
+- [ ] Track E 05 Offensive Python for Pentesters Joff Thyer.mp4
+- [ ] Traversing My Way in the Internal Network - Jasmin Landry (@JR0ch17).mp4
+- [ ] Tutorial Series_ Application Security - Static Analysis of Android Application (APK).mp4
+- [ ] Uncle Rat's CSRF Bug Bounty Methodology Demonstrated.mp4
+- [ ] Uncle Rats Ultimate Guide To Finding OS Command Injection.mp4
+- [ ] Uncle Rats Ultimate SSRF Guide For Bug Bounties.mp4
+- [ ] Uncle Rat’s Top Tier Business Logic Busting Tips_ The Fun In Flawed Logic.mp4
+- [ ] Unlocking secrets of proprietary software using Frida - Ole André Vadla Ravnås.mp4
+- [ ] use Metasploit, Telnet, Searchsploit to exploit open ports_🔥 #cybersecurity.mp4
+- [ ] User Enumeration Attack _ User Enumeration Profile Page Attack _ User Enumeration Attack.mp4
+- [ ] User Enumeration Forgot Password Page _ User Enumeration Attack _ User Enumeration example.mp4
+- [ ] Veit Hailperin, The Tale of a Fameless but Widespread Web Vulnerability Class - Security Fest 2016.mp4
+- [ ] VIM tutorial_ linux terminal tools for bug bounty pentest and redteams with @tomnomnom (1).mp4
+- [ ] VIM tutorial_ linux terminal tools for bug bounty pentest and redteams with @tomnomnom.mp4
+- [ ] Viral Video - Exploiting SSRF in Video Converters.mp4
+- [ ] Vulnerabilities of mobile OAuth 2.0 by Nikita Stupin, Mail.ru.mp4
+- [ ] WAF Anti-Bot Bypasses - Johnny Xmas - InfoQ QCon New York 2019 (1).mp4
+- [ ] WAF Anti-Bot Bypasses - Johnny Xmas - InfoQ QCon New York 2019.mp4
+- [ ] WAF Bypass Techniques Using HTTP Standard and Web Servers’ Behavior - Soroush Dalili.mp4
+- [ ] WAF Bypass Techniques_ Let's make some WAFfles.mp4
+- [ ] WANT TO FIND YOUR FIRST BUG BUT CONFUSED WHERE AND HOW TO START❓HINDI VIDEO FOR BEGINEERS🌟🌟.mp4
+- [ ] Watch me hack a bug bounty-like target from scratch. #bugbounty #hacking.mp4
+- [ ] Weaponizing Recon - Smashing Applications for Security Vulnerabilities & Profit by Harsh Bothra (1).mp4
+- [ ] Weaponizing Recon - Smashing Applications for Security Vulnerabilities & Profit by Harsh Bothra.mp4
+- [ ] Weaponizing Recon for Fun & Profit by Harsh Bothra.mp4
+- [ ] Web Application Content Enumeration  _ TryHackMe Content Discovery.mp4
+- [ ] Web Application Ethical Hacking - Penetration Testing Course for Beginners.mp4
+- [ ] Web Application Exploit 101 Breaking Access Control and Business Logic.mp4
+- [ ] Web Cache Deception Attack.mp4
+- [ ] Web Cache Entanglement_ Novel Pathways to Poisoning - James Kettle (albinowax).mp4
+- [ ] Web Hacking Pro Tips #13 with @ngalongc Ron Chan.mp4
+- [ ] Web Hacking Pro Tips #17 - @dawgyg Tommy DeVoss.mp4
+- [ ] Web Hacking Pro Tips #9 with @zseano.mp4
+- [ ] Website Penetration Testing With Python.mp4
+- [ ] WEBSOCKETS VULNERABILITY_ THE MOST UNDERRATED BUG🔥🔥 _ BEGINEERS FREINDLY _BUG BOUNTY COURSE IN HINDI.mp4
+- [ ] What after Recon_ - Demystifying JavaScript Files.mp4
+- [ ] What after Recon_Information Gathering _ Bug Hunting_ Penetration Testing Checklist_Methodology 🔥🔥.mp4
+- [ ] What if Order by is blocked_ [Advance Waf Bypass 412 error challenge solution].mp4
+- [ ] WHAT IS JSON AND HOW YOU CAN FIND VULNERABILITIES IN JSON _ 🔥🔥[HINDI].mp4
+- [ ] What is OAUTH 2.0 _ How to find OAUTH vulnerabilities _ Bug Bounty Course in Hindi🔥🔥.mp4
+- [ ] What You Didn't Know About XML External Entities Attacks - Timothy Morgan.mp4
+- [ ] What You NEED To Know About Bug Bounties.mp4
+- [ ] What's It Like As A Red Team Operator_ (w_ Chris M.).mp4
+- [ ] Who left open the cookie jar_ - TOM VAN GOETHEM.mp4
+- [ ] Who, What, Where, When, Wordlist by @TomNomNom #NahamCon2020.mp4
+- [ ] Wild Web Warriors Web App Hacking the Next Generation #HackingisNOTaCrime.mp4
+- [ ] XML External Entities (XXE) Explained.mp4
+- [ ] XML External Entity (XXE) Injection All-in-One.mp4
+- [ ] XML External Entity Injection.mp4
+- [ ] XSS CSP Bypass - BugPoC Challenge.mp4
+- [ ] XSS on Google Search - Sanitizing HTML in The Client_.mp4
+- [ ] XXE - What Why & How _ XXE on Twitter _ $10k Bounty _ XML External Entity.mp4
+- [ ] XXE FILE UPLOAD _ IMAGE UPLOAD VULNERABILITY_ FIRST BUG YOU CAN FIND _ BUG BOUNTY _ HINDI _ EP#13🔥.mp4
+- [ ] XXE INJECTION PRACTCIALLY EXPLAINED _ HOW TO FIND XXE _ HINDI _ BUG BOUNTY COURSE EP#17 🔥🔥.mp4
+- [ ] YesWeHack Hunter Interviews – #3 Icare_ “Be curious and persistent”.mp4
+- [ ] Your Scripts In My Page - What Could Possibly Go Wrong_.mp4
+- [ ] [2019] Hunting Bugs To Extinction With Static Analysis by Paul Theriault.mp4
+- [ ] [2019] The Absolute AppSec Secure Code Review Framework by Seth Law.mp4
+- [ ] [CB16] Esoteric Web Application Vulnerabilities by Andres Riancho.mp4
+- [ ] [Hindi] Parallel Tool to run Multi Commands _ Advance Bug Bounty Hunting Tools🔥.mp4
+- [ ] [HINDI]ADVANCE INFORMATION GATHERING _ EK DUM ALAG TARIKA _ BUG BOUNTIES METHODS _ EP#2🔥.mp4
+- [ ] [HINDI]HOW TO FIND IDOR _ DIFFERENT METHODS _ PRACTCAL VIDEO _ BUG BOUNTY _ EP#11🔥.mp4
+- [ ] [HINDI]HOW TO FIND XSS VULNERABILITY _ EXPLAINED WITH PRACTICAL_ _ BUG BOUNTIES METHODS _EP#4🔥.mp4
+- [ ] [HINDI]INFORMATION GATHERING IN REAL LIFE _ BASIC RECON _ PEN TESTING & BUG BOUNTIES METHODS _ EP#1🔥.mp4
+- [ ] [HINDI]SUBDOMAIN TAKEOVER EASY EXPLANATION _ DANGER BUG YOU CAN FIND _ BUG BOUNTIES METHODS _ EP#7🔥.mp4
+- [ ] [HINDI]SUBDOMAIN TAKEOVER PRACTICAL VIDEO _ STEP BY STEP  TUTORIAL _ BUG BOUNTIES METHODS _ EP#8🔥.mp4
+- [ ] [HINDI][SSRF] SERVER SIDE REQUEST FORGERY  _ SOLVING LIVE LABS  _ BUG BOUNTY _ EP#9🔥.mp4
+- [ ] [Practical] How to find more bugs in bug bounty _ अब आप भी कमा सकते हैं #cybersecurity.mp4
+- [ ] _Entomology 101_, Louis Nyffenegger, CSides July 2020.mp4
+- [ ] _JWAT.... Attacking JSON Web Tokens_ - Louis.mp4
+- [ ] “Recon Like an Adversary” by Jason Haddix at IWCON2023.mp4

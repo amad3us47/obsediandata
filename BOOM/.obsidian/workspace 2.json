@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "65a3dea0c5620983",
+    "type": "split",
+    "children": [
+      {
+        "id": "39f1490572a04c62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d47bd2eddd4cc5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BUG BOUNTY CHECKLIST 💻/CHECKLIST.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d0e988112d04d00d",
+    "type": "split",
+    "children": [
+      {
+        "id": "67bc2b1048b4b375",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85418f4bbb12305b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "27ee8d1d2673a6e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "90a2d98d1ade9cf6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "681264e0a7fdd233",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ed20a1da0cd5496",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83c3a41d87efe7cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BUG BOUNTY CHECKLIST 💻/CHECKLIST.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3543f2f43a0e419e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "BUG BOUNTY CHECKLIST 💻/CHECKLIST.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "27d14ab89ae3aee7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3efa35efb654af6e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "BUG BOUNTY CHECKLIST 💻/CHECKLIST.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8d47bd2eddd4cc5e",
+  "lastOpenFiles": [
+    "previous reports/CSRF LOGIN 2.md",
+    "previous reports/CSRF LOGIN(1).md",
+    "bgp.md",
+    "BUG BOUNTY CHECKLIST 💻/CHECKLIST.md",
+    "previous reports/CSRF LOGIN.md",
+    "previous reports/DNS CACHE OR WEB CACHE.md",
+    "Vulnerable machines/Machines list.md",
+    "Vulnerable machines",
+    "Extras/Php code writing and xss bugs in it.md",
+    "previous reports/GIF FLOODING.md",
+    "previous reports/IMPROPER AUTHENTICATION.md",
+    "previous reports/CSP HEADERS MISSING.md",
+    "jasson haddix/Bug bounty methodlogy.md",
+    "jasson haddix/Bug bounty methodlogy(1).md",
+    "Excalidraw/Drawing 2024-03-08 10.29.05.excalidraw.md",
+    "Excalidraw",
+    "Excalidraw/Drawing 2024-03-08 10.28.43.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-08 10.25.00.excalidraw.md",
+    "BUG BOUNTY CHECKLIST 💻",
+    "[Bug Bounty bootcamp]().md",
+    "Web applications hacker's handbook.md",
+    "Pasted image 20240228141937.png",
+    "Pasted image 20240228141628.png",
+    "image 1.jpg",
+    "Bug_Hunters_Methodology_Live_Day_One_-_Recon.pdf",
+    "Bug_Hunters_Methodology_Live_Day_Two_-_App_Analysis_Master.pdf",
+    "Pasted image 20240228141251.png",
+    "previous reports/SPF MISSING.md",
+    "Untitled.md",
+    "hackerone.md",
+    "BOOKS/BOOKS.md",
+    "Web applications hacker's.md",
+    "Pasted image 20240228141409.png",
+    "Pasted image 20240228141603.png",
+    "Pasted image 20240228141752.png",
+    "Day 2 App Analysis.mp4",
+    "Day 1 Recon.mp4",
+    "image.jpg",
+    "Bug bounty methodlogy.md",
+    "28- لماذا تحدث الثغرات_.mp4",
+    "jasson haddix",
+    "apps.mp4",
+    "().md"
+  ]
+}

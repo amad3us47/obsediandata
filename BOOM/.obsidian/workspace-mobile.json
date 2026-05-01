@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "e1334fc6973a1149",
+    "type": "split",
+    "children": [
+      {
+        "id": "b86573b7f9d4b1a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a742a62990bcda4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HACKING/BUG BOUNTY/previous reports/BROKEN AUTHENTICATION AND SESSION MANAGEMENT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BROKEN AUTHENTICATION AND SESSION MANAGEMENT"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd70c00444c0b976",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "17b938952f108825",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "edecfa2a484fd5fe",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "ed266258971bc274",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "b61fb1662d9c6c44",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "3daa5ec820fdce11",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d7bde64c03458e62",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "d12a3c9e9de79999",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "b4f81039758fa17a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a742a62990bcda4a",
+  "lastOpenFiles": [
+    "HACKING/BUG BOUNTY/previous reports/ALLOWED METHOD DISCLOSURE.md",
+    "HACKING/BUG BOUNTY/previous reports/EMAIL ( NO VERIFICATION )(1).md",
+    "HACKING/BUG BOUNTY/previous reports/EMAIL ( NO VERIFICATION ).md",
+    "HACKING/CONFERENCE/BLACKHAT/(Unexpected Stories From a Hacker Inside the Government) ,7 Sept 2013(3).md",
+    "HACKING/BUG BOUNTY/previous reports/current.md",
+    "HACKING/BUG BOUNTY/previous reports/ACCOUNT TAKEOVER ( EMAIL NO VERIFICATION ).md",
+    "HACKING/BUG BOUNTY/COURSES/HADDIX/WHATRUNS.md",
+    "HACKING/BUG BOUNTY/COURSES/HADDIX/METASEC.JS.md",
+    "HACKING/BUG BOUNTY/COURSES/HADDIX/JAELES.md",
+    "HACKING/BUG BOUNTY/COURSES/HADDIX/JSMINER(BURP).md",
+    "HACKING/BUG BOUNTY/COURSES/HADDIX/Eyewitnesss.md",
+    "HACKING/BUG BOUNTY/COURSES/HADDIX/CHAOS.md",
+    "HACKING/BUG BOUNTY/COURSES/HADDIX/BUILTWITH.md",
+    "AI/Papers/Regression/On the relationship between optical and x-ray luminosity.md",
+    "WEB DEV/CLONES/TWITTER/3.Routing but better.md",
+    "WEB DEV/CLONES/TWITTER/1. creating a server.md",
+    "THE MEANING OF LIFE/$~ motivation.md",
+    "STARTUP/INDIE HACKING/main requirements.md",
+    "OS/OS THREE EASY PIECES/Virtualization ☠️.md",
+    "HACKING/CONFERENCE/BLACKHAT/(Unexpected Stories From a Hacker Inside the Government) ,7 Sept 2013(1).md",
+    "HACKING/BUG BOUNTY/PORTSWIGGER ACADEMY/WEB LLM ATTACKS.md",
+    "WEB DEV/NEXT JS/React Server Components.md",
+    "HACKING/BUG BOUNTY/previous reports/CSRF ( DISABLE ORDER )(1).md"
+  ]
+}

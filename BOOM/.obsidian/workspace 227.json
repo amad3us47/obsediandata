@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "dd42a1d2440419b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "319a04ad2fa81856",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dded81392315a051",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Bug_Hunters_Methodology_Live_Day_Two_-_App_Analysis_Master.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7170fa65f6b8b18",
+    "type": "split",
+    "children": [
+      {
+        "id": "067791b6611372cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88239d63ced1cd5a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "22c769ba17966c54",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c6337bc1c8a66c87",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cba8bc13ef88d10d",
+    "type": "split",
+    "children": [
+      {
+        "id": "591d7645494b34fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54552c0cd723a636",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bug_Hunters_Methodology_Live_Day_Two_-_App_Analysis_Master.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b0a49f073d8d82ea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bug_Hunters_Methodology_Live_Day_Two_-_App_Analysis_Master.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7faeb5e5a819a0c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "29e2c3e4d1bc3f5c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bug_Hunters_Methodology_Live_Day_Two_-_App_Analysis_Master.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "88239d63ced1cd5a",
+  "lastOpenFiles": [
+    "REVERSE ENGINEERING/Untitled",
+    "REVERSE ENGINEERING/Crackemes.one.md",
+    "Bug_Hunters_Methodology_Live_Day_Two_-_App_Analysis_Master.pdf",
+    "REVERSE ENGINEERING"
+  ]
+}

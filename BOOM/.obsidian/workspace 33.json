@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "8870e99d6ce78261",
+    "type": "split",
+    "children": [
+      {
+        "id": "18c8c4b994219caa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "647430e8ae4f8e9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "previous reports/GIF FLOODING.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "294e4250f951fff5",
+    "type": "split",
+    "children": [
+      {
+        "id": "81855fde5241f8af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6e6d529afd98aa3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "38b53cad10d146ae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "695afbe4a5f22e18",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 306.5
+  },
+  "right": {
+    "id": "8b6383497385833d",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbc1a1ffa813dceb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d51d25e998a9bef6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "previous reports/GIF FLOODING.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ac1bd8b91023355a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "previous reports/GIF FLOODING.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fb0365de98bda4d7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7d7330357b62da90",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "previous reports/GIF FLOODING.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "647430e8ae4f8e9b",
+  "lastOpenFiles": [
+    "previous reports/IMPROPER AUTHENTICATION.md",
+    "previous reports/SPF MISSING.md",
+    "previous reports/DNS CACHE OR WEB CACHE.md",
+    "hackerone.md",
+    "Pasted image 20240228141603.png",
+    "Pasted image 20240228141937.png",
+    "Web applications hacker's handbook.md",
+    "Vulnerable machines/Machines list.md",
+    "previous reports/CSP HEADERS MISSING.md",
+    "previous reports/GIF FLOODING.md",
+    "previous reports/CSRF LOGIN(1).md",
+    "previous reports/CSRF LOGIN 2.md",
+    "courses/rson_live.md",
+    "courses/random.md",
+    "courses/port swigger.md",
+    "courses/bugreportsexplained.md",
+    "courses/insiderphd.md",
+    "BUG BOUNTY CHECKLIST 💻/CHECKLIST.md"
+  ]
+}

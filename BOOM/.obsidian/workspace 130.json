@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "ec45a298df9b1f6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0be8e55ee6dfff7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "920cf463b1a13289",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Machine learning/Unsupervised Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "62edab1c5289d759",
+    "type": "split",
+    "children": [
+      {
+        "id": "03db2fc553047ea0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ff6af61b707ff39",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "52f2a97f26440024",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4c6341cb1d81ae17",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4fe07d8889b0cc27",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0d4e205e73052d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f508544b9fcd9019",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AI/Machine learning/Unsupervised Learning.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "93a1183dbafde079",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AI/Machine learning/Unsupervised Learning.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6890dde8c1793939",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5f1a490c6d59414f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AI/Machine learning/Unsupervised Learning.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "920cf463b1a13289",
+  "lastOpenFiles": [
+    "AI/Machine learning/Supervised Learning.md"
+  ]
+}

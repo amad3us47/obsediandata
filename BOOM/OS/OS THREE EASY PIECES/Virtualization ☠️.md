@@ -1,0 +1,1 @@
+In virtualization , the OS takes a physical resource( such as the processor , memory or a disk ) and transforms it into more general, powerful and easy to use virtual form of itself .

@@ -1,0 +1,437 @@
+{
+  "main": {
+    "id": "394160bfe82e9bd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d132b5b00752b3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "219fd3721eb5df0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOOM/AI/Machine learning/Unsupervised Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unsupervised Learning"
+            }
+          },
+          {
+            "id": "6ec9e5956849b3fa",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "7c4aa71d9578299c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOOM/AI/KAGGLE/12 ( PREDICT GRANT APPLICANTS )/solution2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "solution2"
+            }
+          },
+          {
+            "id": "542c3e0b676595e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOOM/AI/KAGGLE/13 ( STAY ALERT! THE FORD CHALLENGE )/solution1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "solution1"
+            }
+          },
+          {
+            "id": "66aee8c162693156",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOOM/AI/KAGGLE/4 ( PREDICT HIV PROGRESSION )/solution1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "solution1"
+            }
+          },
+          {
+            "id": "983afbf0779fa28a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOOM/LINUX/Linux Ricing/Bugswriter(youtuber) -  learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bugswriter(youtuber) -  learning"
+            }
+          },
+          {
+            "id": "db51ee65bd4cbb4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOOM/HACKING/REVERSE ENGINEERING/CRACKMES.ONE/s4r's matrice.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "s4r's matrice"
+            }
+          },
+          {
+            "id": "86185277f928c389",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOOM/PROGRAMMING/PROGRAMMING LANGUAGE/PYTHON/PYTHON(docs.python.org)/3.1.2 ( TEXT ).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.1.2 ( TEXT )"
+            }
+          },
+          {
+            "id": "015370d322f4603d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOOM/PROGRAMMING/PROGRAMMING LANGUAGE/PYTHON/PYTHON(docs.python.org)/3.1.3 ( LISTS ).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.1.3 ( LISTS )"
+            }
+          },
+          {
+            "id": "452f31799f954fef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOOM/HACKING/BUG BOUNTY/previous reports/MISSING FUNCTION LEVEL ACCESS CONTROL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MISSING FUNCTION LEVEL ACCESS CONTROL"
+            }
+          },
+          {
+            "id": "e87f428ff3afb9d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOOM/AI/KAGGLE/16 ( DON'T OVERFIT )/solution 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "solution 1"
+            }
+          },
+          {
+            "id": "56363f642c95e20c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOOM/AI/KAGGLE/16 ( DON'T OVERFIT )/solution 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "solution 1"
+            }
+          },
+          {
+            "id": "92c76f2f1c1bb1ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOOM/AI/KAGGLE/16 ( DON'T OVERFIT )/solution 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "solution 1"
+            }
+          },
+          {
+            "id": "f717d49499a51e70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOOM/AI/Papers/SOTA ( TASKS )/IMAGE CLASSIFICATION/VISION TRANSFORMER/VISION TRANSFORMER PAPER IMPLEMENTSTION.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VISION TRANSFORMER PAPER IMPLEMENTSTION"
+            }
+          },
+          {
+            "id": "28dd8df6041b5a26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOOM/AI/Papers/SOTA ( TASKS )/IMAGE CLASSIFICATION/VISION TRANSFORMER/VISION TRANSFORMER PAPER IMPLEMENTSTION.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VISION TRANSFORMER PAPER IMPLEMENTSTION"
+            }
+          },
+          {
+            "id": "df6be3f2e6ffdb88",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "BOOM/AI/Papers/SOTA ( TASKS )/IMAGE CLASSIFICATION/VISION TRANSFORMER/Drawing 2026-04-16 23.29.16.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-04-16 23.29.16.excalidraw"
+            }
+          },
+          {
+            "id": "8a617f3c385db113",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "BOOM/CompileSource-min.webp"
+              },
+              "icon": "lucide-image",
+              "title": "CompileSource-min"
+            }
+          }
+        ],
+        "currentTab": 16
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "19704485fa7d8ae7",
+    "type": "split",
+    "children": [
+      {
+        "id": "759aab270c255419",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78ee5506fd6d3e86",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "61a1282dc8dff4f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cc6aaed842120148",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 416.5
+  },
+  "right": {
+    "id": "5817e203ffa73c8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e4fbd04dc160d54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "431fa94374d2de31",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BOOM/CompileSource-min.webp",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for CompileSource-min"
+            }
+          },
+          {
+            "id": "49d4d33ae8b2f9e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "BOOM/HACKING/BUG BOUNTY/PORTSWIGGER ACADEMY/SERVER-SIDE VURNABILITY.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from SERVER-SIDE VURNABILITY"
+            }
+          },
+          {
+            "id": "4a85ac5143eebb31",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bbdde66a87ff75d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "BOOM/HACKING/BUG BOUNTY/PORTSWIGGER ACADEMY/SERVER-SIDE VURNABILITY.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of SERVER-SIDE VURNABILITY"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
+    }
+  },
+  "active": "8a617f3c385db113",
+  "lastOpenFiles": [
+    "Untitled 2.base",
+    "Untitled.base",
+    "Untitled.canvas",
+    "BOOM/HACKING/CTF-TIME/SECUINSIDE CTF Quals 2012  task - Zomebie.md",
+    "Self Note.md",
+    "BOOM/HACKING/CTF-TIME",
+    "BOOM/HACKING/CONFERENCE/BLACKHAT/Black Hat USA 2000 - Advanced Buffer Overflow Techniques, 2 Oct 2013.md",
+    "BOOM/HACKING/CONFERENCE/DEFCON/UntiDEF CON 20  Zack Fasel Owned in 60 Seconds  From Network Guest to Windows Domain Admin, 26 Oct 2013.md",
+    "BOOM/HACKING/CONFERENCE/DEFCON/Drinking From the Caffeine Firehose We Know as Shodan,  30 Oct 2013.md",
+    "BOOM/HACKING/CONFERENCE/DEFCON/Hacking Driverless Vehicles by Zoz Cannytrophic Design,7 Sept 2013.md",
+    "BOOM/HACKING/CONFERENCE/DEFCON/(Unexpected Stories From a Hacker Inside the Government) ,7 Sept 2013.md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/URL's SHOULD BE HTTPS NOT HTTP.md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/EMAIL  LEAKED ( ANDROID APP ).md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/HTML INJECTION (  EXTRACT USER DETAIL ).md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/2FA( BYPASS ).md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/ALTER USERNAME ( SECOND PROFILE WITH FIRST PROFILE ).md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/Untitled",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/XSS (  ASSET NAME ).md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/PYTHON PATH EXPOSE.md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/VOTE MANIPULATION.md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/CHANGE PROFILE PICTURE DURING RIDE TO NUDES OR SOMETHING.md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/MASS ASSIGNMENT.md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/CSS INJECTION.md",
+    "BOOM/AI/Papers/SOTA ( TASKS )/IMAGE CLASSIFICATION/VISION TRANSFORMER/Drawing 2026-04-16 23.29.16.excalidraw.md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/REFLECTED XSS ( bodyHtml ).md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/SSL CERTIFICATE ( LESS SECURE 2048 bit).md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/CSRF ( SUBSCRIBE ).md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/CLICKJACKING ( X-FRAME MISSING ).md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/PRIVELEGE ESCALATION ( INSTALL APPS ).md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/CSRF ( UNLIMITED FOLLOWING USERS ).md",
+    "BOOM/AI/Papers/SOTA ( TASKS )/IMAGE CLASSIFICATION/VISION TRANSFORMER/2010.11929v2.pdf",
+    "BOOM/AI/Papers/SOTA ( TASKS )/IMAGE CLASSIFICATION/VISION TRANSFORMER/2010.11929.pdf",
+    "BOOM/AI/Papers/SOTA ( TASKS )/IMAGE CLASSIFICATION/VISION TRANSFORMER",
+    "BOOM/AI/Papers/SOTA ( TASKS )/MATHEMATICAL REASONING",
+    "BOOM/AI/KAGGLE/16 ( DON'T OVERFIT )/solution1.ipynb",
+    "BOOM/AI/KAGGLE/16 ( DON'T OVERFIT )/solution 1.ipynb",
+    "Untitled 4.base",
+    "Pasted image 20260412134207.png",
+    "Pasted image 20260412113326.png",
+    "Pasted image 20260412113020.png",
+    "Pasted image 20260412112730.png",
+    "Pasted image 20260412112535.png",
+    "Pasted image 20260412112209.png",
+    "Pasted image 20260412112117.png",
+    "Pasted image 20260412111958.png",
+    "Pasted image 20260401014823.png",
+    "Pasted image 20260331142931.png"
+  ]
+}

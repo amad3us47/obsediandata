@@ -1,0 +1,220 @@
+
+- [ ] A guide to the Burp Suite user interface.mp4
+- [ ] A one million milestone for the Web Security Academy.mp4
+- [ ] Activating your Burp Suite Enterprise Edition license.mp4
+- [ ] Adding extensions to Burp Suite Enterprise Edition.mp4
+- [ ] Adding new sites in Burp Suite Enterprise Edition.mp4
+- [ ] Adding usernames and passwords to a site in Burp Suite Enterprise Edition.mp4
+- [ ] Analyze your Burp Suite Enterprise Edition scan's results.mp4
+- [ ] Analyzing session token generation with Burp Suite.mp4
+- [ ] Ask me anything, with Burp Suite creator Dafydd Stuttard.mp4
+- [ ] Assigning scan limits in Burp Suite Enterprise Edition.mp4
+- [ ] Automated content discovery with Burp Suite.mp4
+- [ ] Best practice for recording login sequences in Burp Suite Enterprise Edition.mp4
+- [ ] Breaking Stereotypes in the World of Tech_ How we can create new narratives about the world of tech_.mp4
+- [ ] Breaking Stereotypes in the World of Tech_ PortSwiggers’ Women in Tech share their experiences.mp4
+- [ ] Breaking Stereotypes in the World of Tech_ What advice would you give your younger self_.mp4
+- [ ] Breaking Stereotypes in the World of Tech_ What it means to be in the world of tech.mp4
+- [ ] Breaking Stereotypes in the World of Tech_ What things you can get involved in whilst being in tech.mp4
+- [ ] Breaking Stereotypes in the World of Tech_ Why our panel members chose a career in tech.mp4
+- [ ] Bring your mum and dad to work.mp4
+- [ ] Browser-powered scanning in Burp Suite (2020.8.1 release).mp4
+- [ ] Brute-forcing logins with Burp Suite.mp4
+- [ ] Brute-forcing passwords with Burp Suite.mp4
+- [ ] Bulk actions with Burp Suite Enterprise Edition (presented by a banana and a monk).mp4
+- [ ] Burp Suite Enterprise Edition Architecture overview.mp4
+- [ ] Burp Suite Enterprise Edition System Requirements (Kubernetes).mp4
+- [ ] Burp Suite Enterprise Edition System Requirements (Standard deployment).mp4
+- [ ] Burp Suite Shorts _ Authentication in Burp Scanner.mp4
+- [ ] Burp Suite Shorts _ Automatic Session Handling.mp4
+- [ ] Burp Suite Shorts _ Bambdas.mp4
+- [ ] Burp Suite Shorts _ BCheck Testing Tool.mp4
+- [ ] Burp Suite Shorts _ BChecks.mp4
+- [ ] Burp Suite Shorts _ Browser Powered Scanning.mp4
+- [ ] Burp Suite Shorts _ Crawl Locations vs. Audit Items.mp4
+- [ ] Burp Suite Shorts _ Dashboard overhaul.mp4
+- [ ] Burp Suite Shorts _ Frequently Occurring Insertion Points.mp4
+- [ ] Burp Suite Shorts _ Global Crawl Paths View.mp4
+- [ ] Burp Suite Shorts _ GraphQL Introspection.mp4
+- [ ] Burp Suite Shorts _ Incy Wincy Crawling.mp4
+- [ ] Burp Suite Shorts _ Insertion Point Relocation.mp4
+- [ ] Burp Suite Shorts _ Navigating application paths with Burp Scanner.mp4
+- [ ] Burp Suite Shorts _ Nested Insertion Points.mp4
+- [ ] Burp Suite Shorts _ New Crawl Paths View.mp4
+- [ ] Burp Suite Shorts _ Organizer.mp4
+- [ ] Burp Suite Shorts _ Recorded Login Sequences.mp4
+- [ ] Burp Suite Shorts _ Stored Input Detection.mp4
+- [ ] Bypassing client-side controls with Burp Suite.mp4
+- [ ] Bypassing XSS filters by enumerating permitted tags and attributes using Burp Suite.mp4
+- [ ] Checking for hidden inputs with Burp Suite.mp4
+- [ ] Complementing your manual testing with Burp Scanner.mp4
+- [ ] Configuring an HTTP proxy server for Burp Suite Enterprise Edition.mp4
+- [ ] Configuring database backups for Burp Suite Enterprise Edition.mp4
+- [ ] Configuring default false positive settings in Burp Suite Enterprise Edition.mp4
+- [ ] Configuring LDAP single sign-on for Burp Suite Enterprise Edition.mp4
+- [ ] Configuring SAML SSO with ADFS in Burp Suite Enterprise Edition.mp4
+- [ ] Configuring SAML SSO with Azure Active Directory in Burp Suite Enterprise Edition.mp4
+- [ ] Configuring SAML SSO with Okta in Burp Suite Enterprise Edition.mp4
+- [ ] Configuring site and scan data settings in Burp Suite Enterprise Edition.mp4
+- [ ] Configuring site settings in Burp Suite Enterprise Edition.mp4
+- [ ] Configuring the Burp Suite Enterprise application.mp4
+- [ ] Configuring user groups and permissions for SSO in Burp Suite Enterprise Edition.mp4
+- [ ] Configuring your Burp Enterprise web server.mp4
+- [ ] Configuring your environment network and firewall settings for Burp Suite Enterprise Edition.mp4
+- [ ] Configuring your SMTP Server for Burp Suite Enterprise.mp4
+- [ ] Continuous deployment is roarsome.mp4
+- [ ] Creating scans in Burp Suite Enterprise Edition.mp4
+- [ ] Credential stuffing with Burp Suite.mp4
+- [ ] Dastardly, from Burp Suite _ Overview and demo.mp4
+- [ ] Dastardly_ Web security training for developers.mp4
+- [ ] Decoding opaque data with Burp Suite.mp4
+- [ ] Delivering advanced testing capabilities with Burp Suite Certified Practitioners - Packetlabs Ltd.mp4
+- [ ] Deploying additional scanning machines in Burp Suite Enterprise Edition.mp4
+- [ ] Deploying Burp Suite Enterprise Edition to Kubernetes.mp4
+- [ ] Determining the session timeout using Burp Suite.mp4
+- [ ] Discovering a race condition vulnerability in Gitlab with the single-packet attack.mp4
+- [ ] DOM Invader_ Prototype Pollution.mp4
+- [ ] Download and install Burp Suite Professional_Community Edition.mp4
+- [ ] Downloading logs in Burp Suite Enterprise Edition.mp4
+- [ ] Downloading reports in Burp Suite Enterprise Edition.mp4
+- [ ] Editing existing sites in Burp Suite Enterprise Edition.mp4
+- [ ] Enumerating subdomains with Burp Suite.mp4
+- [ ] Enumerating usernames with Burp Suite.mp4
+- [ ] Evaluating inputs with Burp Suite.mp4
+- [ ] Evolving your organization's security maturity towards DevSecOps.mp4
+- [ ] Exploiting OS command injection vulnerabilities to exfiltrate data with Burp Suite.mp4
+- [ ] Extensions for Burp Suite Enterprise Edition - Overview.mp4
+- [ ] Generating a CSRF proof-of-concept with Burp Suite.mp4
+- [ ] Getting started with Burp Inspector.mp4
+- [ ] Getting started with the Burp Suite site map.mp4
+- [ ] Gin & Juice Shop.mp4
+- [ ] GitLab integration with Burp Suite Enterprise Edition.mp4
+- [ ] Graduate career opportunities at PortSwigger.mp4
+- [ ] Guessing usernames for known users with Burp Suite.mp4
+- [ ] Handling false positives in Burp Suite Enterprise Edition.mp4
+- [ ] How to create custom scan configurations in Burp Suite Enterprise Edition.mp4
+- [ ] How to create scans in Burp Suite Enterprise Edition.mp4
+- [ ] How to create sites in Burp Suite Enterprise Edition.mp4
+- [ ] How to get started with Burp Suite Enterprise Edition - Dec 2022.mp4
+- [ ] How to integrate Burp Suite Enterprise Edition with your CI_CD platform.mp4
+- [ ] How to intercept HTTP requests and responses using Burp Suite.mp4
+- [ ] How to manage users and role-based access control in Burp Suite Enterprise Edition.mp4
+- [ ] How to resend individual requests with Burp Repeater.mp4
+- [ ] How to scan a website for vulnerabilities using Burp Scanner.mp4
+- [ ] How to set up agents in Burp Suite Enterprise Edition.mp4
+- [ ] How to test WebSockets with Burp Suite.mp4
+- [ ] How to use Burp Proxy interception rules.mp4
+- [ ] How to use Burp Suite project options.mp4
+- [ ] How to use Burp Suite projects.mp4
+- [ ] How to use live tasks in Burp Suite.mp4
+- [ ] How to use Param Miner to detect fat GET cache poisoning.mp4
+- [ ] How to use target scope in Burp Suite.mp4
+- [ ] How to work with scan results in Burp Suite Enterprise Edition.mp4
+- [ ] HTTP_2 request smuggling (explained using beer).mp4
+- [ ] HTTP_2_ The Sequel is Always Worse - James Kettle (albinowax).mp4
+- [ ] HTTP_3 Connection Contamination Made Simple - James Kettle (albinowax).mp4
+- [ ] Identifying high-risk functionality with Burp Suite.mp4
+- [ ] Identifying reflected input with Burp Suite.mp4
+- [ ] Identifying supported HTTP methods with Burp Suite.mp4
+- [ ] Identifying which parts of a token impact the response with Burp Suite.mp4
+- [ ] Importing sites in bulk in Burp Suite Enterprise Edition.mp4
+- [ ] Install Burp Suite Enterprise Edition with the default options.mp4
+- [ ] Installing Burp Suite Enterprise Edition.mp4
+- [ ] Integrating Burp Suite Enterprise Edition with GitLab.mp4
+- [ ] Integrating Burp Suite Enterprise Edition with Slack.mp4
+- [ ] Integrating Burp with SCIM using Okta.mp4
+- [ ] Integrating Dastardly with Jenkins.mp4
+- [ ] Intercept HTTP traffic with Burp Proxy.mp4
+- [ ] Intro to Dastardly, free lightweight CI_CD DAST scanner from Burp Suite.mp4
+- [ ] Introducing DOM invader - A new tool within Burp Suite.mp4
+- [ ] Introducing new washing machine style configurations.mp4
+- [ ] Introduction to Burp Suite's new native HTTP logger.mp4
+- [ ] Launching Burp Suite's preconfigured browser (2020.7 release).mp4
+- [ ] Life at PortSwigger.mp4
+- [ ] Maintaining an authenticated session using Burp Suite.mp4
+- [ ] Managing certificates for outbound connections for Burp Suite Enterprise Edition.mp4
+- [ ] Managing extensions for Burp Suite Enterprise Edition.mp4
+- [ ] Managing groups in Burp Suite Enterprise Edition.mp4
+- [ ] Managing Kubernetes scanning resources in Burp Suite Enterprise Edition.mp4
+- [ ] Managing roles in Burp Suite Enterprise Edition.mp4
+- [ ] Managing scanning machines in Burp Suite Enterprise Edition.mp4
+- [ ] Managing scanning pools in Burp Suite Enterprise Edition.mp4
+- [ ] Managing scheduled scans in Burp Suite Enterprise Edition.mp4
+- [ ] Managing Services in Burp Suite Enterprise Edition.mp4
+- [ ] Managing the site tree in Burp Suite Enterprise Edition.mp4
+- [ ] Managing updates in Burp Suite Enterprise Edition.mp4
+- [ ] Managing users in Burp Suite Enterprise Edition.mp4
+- [ ] Manipulating WebSocket handshakes with Burp Suite.mp4
+- [ ] Manipulating WebSocket messages with Burp Suite.mp4
+- [ ] Mapping the visible attack surface with Burp Suite.mp4
+- [ ] Modifying HTTP requests with Burp Proxy.mp4
+- [ ] Monitoring scan progress in Burp Suite Enterprise Edition.mp4
+- [ ] Multi-host payloads in Burp Intruder.mp4
+- [ ] Opportunities for Women in Tech at PortSwigger.mp4
+- [ ] Panel discussion_ inviting women in tech to take a seat at the table.mp4
+- [ ] Performing a pre-scan check in Burp Suite Enterprise Edition.mp4
+- [ ] Performing bulk actions in the site tree in Burp Suite Enterprise Edition.mp4
+- [ ] Performing bulk actions with scans in Burp Suite Enterprise Edition.mp4
+- [ ] Portable Data exFiltration XSS for PDFs - Gareth Heyes.mp4
+- [ ] PortSwigginar_ Burp Collaborator Update and Burp Suite Enterprise Edition Demo - November 23.mp4
+- [ ] PortSwigginar_ Burp Scanner for pentesters - March 2023.mp4
+- [ ] PortSwigginar_ Burp Scanner Update and Burp Suite Enterprise Edition Demo - September 28.mp4
+- [ ] PortSwigginar_ BurpSuite for DevSecOps - January 25.mp4
+- [ ] PortSwigginar_ Getting the most out of your Burp Suite Enterprise Edition subscription.mp4
+- [ ] PortSwigginar_ Understanding Burp Suite Enterprise Edition - January 2023.mp4
+- [ ] PortSwigginar_ Understanding Burp Suite Enterprise Edition - July 13.mp4
+- [ ] PortSwigginar_ What's new in Burp Suite Enterprise Edition_ - June 22.mp4
+- [ ] PortSwigginar_ What's new in Burp Suite Enterprise Edition_ - June 8.mp4
+- [ ] Preparing for a standard Burp Suite Enterprise Edition installation.mp4
+- [ ] Pretty-printing JSON in Burp Suite (April 2020 feature release).mp4
+- [ ] Rendering non-printing characters in the Burp Suite message editor (June 2020 feature release).mp4
+- [ ] Resetting your admin password in Burp Suite Enterprise Edition.mp4
+- [ ] Restricting access to sites in Burp Suite Enterprise Edition.mp4
+- [ ] Run your first scan with Burp Suite Enterprise Edition.mp4
+- [ ] Scanning with extensions for Burp Suite Enterprise Edition.mp4
+- [ ] Scoping the effort to audit a website using Burp Suite.mp4
+- [ ] Setting the initial test scope in Burp Suite.mp4
+- [ ] Setting up email notifications in Burp Suite Enterprise Edition.mp4
+- [ ] Single vs multi-machine deployment for Burp Suite Enterprise Edition.mp4
+- [ ] Slack integration with Burp Suite Enterprise Edition.mp4
+- [ ] Testing for asynchronous OS command injection vulnerabilities with Burp Suite.mp4
+- [ ] Testing for blind SSRF with Burp Suite.mp4
+- [ ] Testing for blind XXE injection vulnerabilities with Burp Suite.mp4
+- [ ] Testing for clickjacking using Burp Suite.mp4
+- [ ] Testing for directory traversal vulnerabilities with Burp Suite.mp4
+- [ ] Testing for DOM XSS with DOM Invader.mp4
+- [ ] Testing for IDORs using Burp Suite.mp4
+- [ ] Testing for OS command injection vulnerabilities with Burp Suite.mp4
+- [ ] Testing for parameter-based access control using Burp Suite.mp4
+- [ ] Testing for privilege escalation using Burp Suite.mp4
+- [ ] Testing for prototype pollution with DOM Invader.mp4
+- [ ] Testing for reflected XSS manually with Burp Suite.mp4
+- [ ] Testing for SQL injection vulnerabilities with Burp Suite.mp4
+- [ ] Testing for SSRF with Burp Suite.mp4
+- [ ] Testing for stored XSS with Burp Suite.mp4
+- [ ] Testing for web message DOM XSS with DOM Invader.mp4
+- [ ] Testing for XXE injection vulnerabilities with Burp Suite.mp4
+- [ ] Testing horizontal access controls using Burp Suite.mp4
+- [ ] The house that Burp built - PortSwigger's new office.mp4
+- [ ] Tracking issues over time in Burp Suite Enterprise Edition.mp4
+- [ ] Trello integration with Burp Suite Enterprise Edition.mp4
+- [ ] UI improvements and single sign-on in Burp Suite Enterprise Edition (2020.6 release).mp4
+- [ ] Unattended installation of Burp Suite Enterprise Edition.mp4
+- [ ] Updating Burp Suite Enterprise Edition on Kubernetes.mp4
+- [ ] Using custom scan configurations in Burp Suite Enterprise Edition.mp4
+- [ ] Using preset scan modes in Burp Suite Enterprise Edition.mp4
+- [ ] Viewing issue details in Burp Suite Enterprise Edition.mp4
+- [ ] Viewing scan details in Burp Suite Enterprise Edition.mp4
+- [ ] Web Cache Entanglement_ Novel Pathways to Poisoning - James Kettle (albinowax).mp4
+- [ ] What are PortSwigger people like_ _ PortSwigger Careers.mp4
+- [ ] What is command injection_ - Web Security Academy.mp4
+- [ ] What is directory traversal_ (file path traversal) - Web Security Academy.mp4
+- [ ] What is PortSwigger culture like_ _ PortSwigger Careers.mp4
+- [ ] What is SQL injection_ - Web Security Academy.mp4
+- [ ] What's in the pipeline for the Burp Suite message inspector_.mp4
+- [ ] When I'm Scanning Websites 🎵.mp4
+- [ ] Which Burp Suite Enterprise deployment type is right for me_.mp4
+- [ ] Whitelisting an application for CORS for Burp Suite Enterprise Edition.mp4
+- [ ] Why does PortSwigger exist_ _ PortSwigger Careers.mp4
+- [ ] Working with HTTP_2 in Burp Suite.mp4
+- [ ] Working with JWTs in Burp Suite.mp4
