@@ -177,68 +177,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BOOM/AI/KAGGLE/16 ( DON'T OVERFIT )/solution 1.md",
+                "file": "BOOM/AI/KAGGLE/4 ( PREDICT HIV PROGRESSION )/solution1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "solution 1"
+              "title": "solution1"
             }
           },
           {
-            "id": "f717d49499a51e70",
+            "id": "4c6f5654246f1353",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BOOM/AI/Papers/SOTA ( TASKS )/IMAGE CLASSIFICATION/VISION TRANSFORMER/VISION TRANSFORMER PAPER IMPLEMENTSTION.md",
+                "file": "BOOM/AI/KAGGLE/solution1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VISION TRANSFORMER PAPER IMPLEMENTSTION"
-            }
-          },
-          {
-            "id": "28dd8df6041b5a26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BOOM/AI/Papers/SOTA ( TASKS )/IMAGE CLASSIFICATION/VISION TRANSFORMER/VISION TRANSFORMER PAPER IMPLEMENTSTION.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "VISION TRANSFORMER PAPER IMPLEMENTSTION"
-            }
-          },
-          {
-            "id": "df6be3f2e6ffdb88",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "BOOM/AI/Papers/SOTA ( TASKS )/IMAGE CLASSIFICATION/VISION TRANSFORMER/Drawing 2026-04-16 23.29.16.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-04-16 23.29.16.excalidraw"
-            }
-          },
-          {
-            "id": "8a617f3c385db113",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "BOOM/CompileSource-min.webp"
-              },
-              "icon": "lucide-image",
-              "title": "CompileSource-min"
+              "title": "solution1"
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -311,7 +273,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BOOM/CompileSource-min.webp",
+                "file": "BOOM/HACKING/BUG BOUNTY/PORTSWIGGER ACADEMY/WEB CACHE DECEPTION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -321,7 +283,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CompileSource-min"
+              "title": "Backlinks for WEB CACHE DECEPTION"
             }
           },
           {
@@ -367,7 +329,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -378,52 +341,41 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8a617f3c385db113",
+  "active": "4c6f5654246f1353",
   "lastOpenFiles": [
-    "Untitled 2.base",
-    "Untitled.base",
-    "Untitled.canvas",
-    "BOOM/HACKING/CTF-TIME/SECUINSIDE CTF Quals 2012  task - Zomebie.md",
-    "Self Note.md",
-    "BOOM/HACKING/CTF-TIME",
-    "BOOM/HACKING/CONFERENCE/BLACKHAT/Black Hat USA 2000 - Advanced Buffer Overflow Techniques, 2 Oct 2013.md",
-    "BOOM/HACKING/CONFERENCE/DEFCON/UntiDEF CON 20  Zack Fasel Owned in 60 Seconds  From Network Guest to Windows Domain Admin, 26 Oct 2013.md",
-    "BOOM/HACKING/CONFERENCE/DEFCON/Drinking From the Caffeine Firehose We Know as Shodan,  30 Oct 2013.md",
-    "BOOM/HACKING/CONFERENCE/DEFCON/Hacking Driverless Vehicles by Zoz Cannytrophic Design,7 Sept 2013.md",
-    "BOOM/HACKING/CONFERENCE/DEFCON/(Unexpected Stories From a Hacker Inside the Government) ,7 Sept 2013.md",
-    "BOOM/HACKING/BUG BOUNTY/previous reports/URL's SHOULD BE HTTPS NOT HTTP.md",
-    "BOOM/HACKING/BUG BOUNTY/previous reports/EMAIL  LEAKED ( ANDROID APP ).md",
-    "BOOM/HACKING/BUG BOUNTY/previous reports/HTML INJECTION (  EXTRACT USER DETAIL ).md",
-    "BOOM/HACKING/BUG BOUNTY/previous reports/2FA( BYPASS ).md",
-    "BOOM/HACKING/BUG BOUNTY/previous reports/ALTER USERNAME ( SECOND PROFILE WITH FIRST PROFILE ).md",
-    "BOOM/HACKING/BUG BOUNTY/previous reports/Untitled",
-    "BOOM/HACKING/BUG BOUNTY/previous reports/XSS (  ASSET NAME ).md",
-    "BOOM/HACKING/BUG BOUNTY/previous reports/PYTHON PATH EXPOSE.md",
-    "BOOM/HACKING/BUG BOUNTY/previous reports/VOTE MANIPULATION.md",
-    "BOOM/HACKING/BUG BOUNTY/previous reports/CHANGE PROFILE PICTURE DURING RIDE TO NUDES OR SOMETHING.md",
-    "BOOM/HACKING/BUG BOUNTY/previous reports/MASS ASSIGNMENT.md",
-    "BOOM/HACKING/BUG BOUNTY/previous reports/CSS INJECTION.md",
-    "BOOM/AI/Papers/SOTA ( TASKS )/IMAGE CLASSIFICATION/VISION TRANSFORMER/Drawing 2026-04-16 23.29.16.excalidraw.md",
-    "BOOM/HACKING/BUG BOUNTY/previous reports/REFLECTED XSS ( bodyHtml ).md",
-    "BOOM/HACKING/BUG BOUNTY/previous reports/SSL CERTIFICATE ( LESS SECURE 2048 bit).md",
-    "BOOM/HACKING/BUG BOUNTY/previous reports/CSRF ( SUBSCRIBE ).md",
-    "BOOM/HACKING/BUG BOUNTY/previous reports/CLICKJACKING ( X-FRAME MISSING ).md",
-    "BOOM/HACKING/BUG BOUNTY/previous reports/PRIVELEGE ESCALATION ( INSTALL APPS ).md",
-    "BOOM/HACKING/BUG BOUNTY/previous reports/CSRF ( UNLIMITED FOLLOWING USERS ).md",
-    "BOOM/AI/Papers/SOTA ( TASKS )/IMAGE CLASSIFICATION/VISION TRANSFORMER/2010.11929v2.pdf",
-    "BOOM/AI/Papers/SOTA ( TASKS )/IMAGE CLASSIFICATION/VISION TRANSFORMER/2010.11929.pdf",
-    "BOOM/AI/Papers/SOTA ( TASKS )/IMAGE CLASSIFICATION/VISION TRANSFORMER",
-    "BOOM/AI/Papers/SOTA ( TASKS )/MATHEMATICAL REASONING",
-    "BOOM/AI/KAGGLE/16 ( DON'T OVERFIT )/solution1.ipynb",
+    "BOOM/AI/KAGGLE/solution1.md",
+    "BOOM/AI/KAGGLE/4 ( PREDICT HIV PROGRESSION )/solution1.md",
+    "BOOM/AI/KAGGLE/16 ( DON'T OVERFIT )/solution 1.md",
+    "BOOM/AI/KAGGLE/13 ( STAY ALERT! THE FORD CHALLENGE )/solution2.md",
     "BOOM/AI/KAGGLE/16 ( DON'T OVERFIT )/solution 1.ipynb",
     "Untitled 4.base",
+    "Excalidraw/Drawing 2026-04-14 12.29.54.excalidraw.md",
+    "BOOM/AI/KAGGLE/13 ( STAY ALERT! THE FORD CHALLENGE )/solution1.md",
+    "BOOM/AI/KAGGLE/16 ( DON'T OVERFIT )",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/DMARC MISCONFIGURED.md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/COOKIE ( secure ATTRIBUTE MISSING ).md",
+    "BOOM/HACKING/BUG BOUNTY/PORTSWIGGER ACADEMY/WEB LLM ATTACKS.md",
+    "BOOM/HACKING/BUG BOUNTY/PORTSWIGGER ACADEMY/WEBSOCKET VULNERABILITIES.md",
+    "BOOM/HACKING/BUG BOUNTY/PORTSWIGGER ACADEMY/WEB CACHE DECEPTION.md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/REFLECTED XSS.md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/PERSISTENT XSS ( IMAGE UPLOAD ).md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/EMAIL LEAK.md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/ENUMERATION OF USERS.md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/EMAIL FORGERY.md",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/MISSING FUNCTION LEVEL ACCESS CONTROL.md",
+    "BOOM/HACKING/REVERSE ENGINEERING/CRACKMES.ONE/s4r's matrice.md",
+    "BOOM/HACKING/REVERSE ENGINEERING/CRACKMES.ONE/s4r's zouave.md",
+    "BOOM/HACKING/REVERSE ENGINEERING/CRACKMES.ONE/crackmes.de's keygenme_2_by_nicohogtag by nicohogtag.md",
+    "BOOM/HACKING/BUG BOUNTY/PORTSWIGGER ACADEMY/CROSS ORIGIN RESOURCE SHARING.md",
     "Pasted image 20260412134207.png",
+    "BOOM/HACKING/BUG BOUNTY/PORTSWIGGER ACADEMY/PATH TRAVERSAL.md",
+    "BOOM/HACKING/BUG BOUNTY/PORTSWIGGER ACADEMY/SERVER SIDE REQUEST FORGERY.md",
+    "BOOM/HACKING/BUG BOUNTY/PORTSWIGGER ACADEMY/CROSS-SITE REQUEST FORGERY.md",
+    "BOOM/HACKING/BUG BOUNTY/PORTSWIGGER ACADEMY/PROTOTYPE POLLUTION.md",
+    "BOOM/HACKING/BUG BOUNTY/PORTSWIGGER ACADEMY/SERVER-SIDE VURNABILITY.md",
     "Pasted image 20260412113326.png",
     "Pasted image 20260412113020.png",
     "Pasted image 20260412112730.png",
@@ -431,7 +383,15 @@
     "Pasted image 20260412112209.png",
     "Pasted image 20260412112117.png",
     "Pasted image 20260412111958.png",
+    "BOOM/WEB DEV/BACKEND/BACKEND FROM FIRST PRINCIPLES",
+    "BOOM/WEB DEV/BACKEND",
+    "BOOM/AI/BOOKS/NEURAL NETWORKS FROM SCRATCH",
+    "BOOM/AI/BOOKS",
+    "BOOM/PROGRAMMING/PROGRAMMING LANGUAGE/GO/Learning Go An Idiomatic Approach to Real-World Go Programming",
+    "BOOM/HACKING/REVERSE ENGINEERING/BOOKS/Understanding Assembly by Dennis",
+    "BOOM/HACKING/REVERSE ENGINEERING/BOOKS",
     "Pasted image 20260401014823.png",
-    "Pasted image 20260331142931.png"
+    "Pasted image 20260331142931.png",
+    "Untitled.canvas"
   ]
 }
