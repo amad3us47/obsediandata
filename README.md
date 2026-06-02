@@ -1,4 +1,4 @@
 # obsediandata
 
 
-cool
+idk just absorbing
