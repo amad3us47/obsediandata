@@ -177,30 +177,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BOOM/AI/KAGGLE/4 ( PREDICT HIV PROGRESSION )/solution1.md",
+                "file": "BOOM/AI/KAGGLE/16 ( DON'T OVERFIT )/solution 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "solution1"
+              "title": "solution 1"
             }
           },
           {
-            "id": "4c6f5654246f1353",
+            "id": "f717d49499a51e70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BOOM/AI/KAGGLE/solution1.md",
+                "file": "BOOM/AI/Papers/SOTA ( TASKS )/IMAGE CLASSIFICATION/VISION TRANSFORMER/VISION TRANSFORMER PAPER IMPLEMENTSTION.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "solution1"
+              "title": "VISION TRANSFORMER PAPER IMPLEMENTSTION"
+            }
+          },
+          {
+            "id": "28dd8df6041b5a26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOOM/AI/Papers/SOTA ( TASKS )/IMAGE CLASSIFICATION/VISION TRANSFORMER/VISION TRANSFORMER PAPER IMPLEMENTSTION.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VISION TRANSFORMER PAPER IMPLEMENTSTION"
+            }
+          },
+          {
+            "id": "df6be3f2e6ffdb88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOOM/HACKING/BUG BOUNTY/PORTSWIGGER ACADEMY/AUTHENTICATION VULNERABILITY.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AUTHENTICATION VULNERABILITY"
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -273,7 +301,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BOOM/HACKING/BUG BOUNTY/PORTSWIGGER ACADEMY/WEB CACHE DECEPTION.md",
+                "file": "BOOM/HACKING/BUG BOUNTY/PORTSWIGGER ACADEMY/AUTHENTICATION VULNERABILITY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +311,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for WEB CACHE DECEPTION"
+              "title": "Backlinks for AUTHENTICATION VULNERABILITY"
             }
           },
           {
@@ -329,8 +357,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -341,41 +368,53 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "4c6f5654246f1353",
+  "active": "df6be3f2e6ffdb88",
   "lastOpenFiles": [
-    "BOOM/AI/KAGGLE/solution1.md",
-    "BOOM/AI/KAGGLE/4 ( PREDICT HIV PROGRESSION )/solution1.md",
-    "BOOM/AI/KAGGLE/16 ( DON'T OVERFIT )/solution 1.md",
-    "BOOM/AI/KAGGLE/13 ( STAY ALERT! THE FORD CHALLENGE )/solution2.md",
-    "BOOM/AI/KAGGLE/16 ( DON'T OVERFIT )/solution 1.ipynb",
-    "Untitled 4.base",
-    "Excalidraw/Drawing 2026-04-14 12.29.54.excalidraw.md",
-    "BOOM/AI/KAGGLE/13 ( STAY ALERT! THE FORD CHALLENGE )/solution1.md",
-    "BOOM/AI/KAGGLE/16 ( DON'T OVERFIT )",
-    "BOOM/HACKING/BUG BOUNTY/previous reports/DMARC MISCONFIGURED.md",
-    "BOOM/HACKING/BUG BOUNTY/previous reports/COOKIE ( secure ATTRIBUTE MISSING ).md",
-    "BOOM/HACKING/BUG BOUNTY/PORTSWIGGER ACADEMY/WEB LLM ATTACKS.md",
-    "BOOM/HACKING/BUG BOUNTY/PORTSWIGGER ACADEMY/WEBSOCKET VULNERABILITIES.md",
-    "BOOM/HACKING/BUG BOUNTY/PORTSWIGGER ACADEMY/WEB CACHE DECEPTION.md",
-    "BOOM/HACKING/BUG BOUNTY/previous reports/REFLECTED XSS.md",
-    "BOOM/HACKING/BUG BOUNTY/previous reports/PERSISTENT XSS ( IMAGE UPLOAD ).md",
-    "BOOM/HACKING/BUG BOUNTY/previous reports/EMAIL LEAK.md",
-    "BOOM/HACKING/BUG BOUNTY/previous reports/ENUMERATION OF USERS.md",
-    "BOOM/HACKING/BUG BOUNTY/previous reports/EMAIL FORGERY.md",
-    "BOOM/HACKING/BUG BOUNTY/previous reports/MISSING FUNCTION LEVEL ACCESS CONTROL.md",
-    "BOOM/HACKING/REVERSE ENGINEERING/CRACKMES.ONE/s4r's matrice.md",
-    "BOOM/HACKING/REVERSE ENGINEERING/CRACKMES.ONE/s4r's zouave.md",
-    "BOOM/HACKING/REVERSE ENGINEERING/CRACKMES.ONE/crackmes.de's keygenme_2_by_nicohogtag by nicohogtag.md",
-    "BOOM/HACKING/BUG BOUNTY/PORTSWIGGER ACADEMY/CROSS ORIGIN RESOURCE SHARING.md",
+    "BOOM/HACKING/BUG BOUNTY/PORTSWIGGER ACADEMY/API TESTING.md",
+    "BOOM/HACKING/CTF-TIME/TRX CTF 2026  house-of-fishing.md",
+    "BOOM/HACKING/CTF-TIME/Mozilla CTF 2012 task -   AwesomeCorp. Secured Ranges.md",
+    "BOOM/HACKING/CTF-TIME/SECUINSIDE CTF Quals 2012  task - Zomebie.md",
+    "BOOM/STARTUP/INDIE HACKING/main requirements.md",
+    "BOOM/PROGRAMMING/DATABASE/POSTGRESQL/postgresql.org(docs)/1.4 ( ACCESSING THE DATABASE ).md",
+    "BOOM/PROGRAMMING/DATABASE/POSTGRESQL/postgresql.org(docs)/1.3 ( CREATING A DATABASE ).md",
+    "BOOM/PROGRAMMING/PROGRAMMING LANGUAGE/JAVASCRIPT/javascript.info/1.1.md",
+    "BOOM/PROGRAMMING/PROGRAMMING LANGUAGE/C/10.GLOBAL VARIABLES AND SCOPE.md",
+    "BOOM/PROGRAMMING/PROGRAMMING LANGUAGE/JAVASCRIPT/javascript.info",
+    "BOOM/PROGRAMMING/PROGRAMMING LANGUAGE/C/9. TYPE CONVERSION.md",
+    "BOOM/PROGRAMMING/PROGRAMMING LANGUAGE/C/8. LITERALS.md",
+    "BOOM/PROGRAMMING/PROGRAMMING LANGUAGE/C/7. STATIC VARIABLES.md",
+    "BOOM/PROGRAMMING/PROGRAMMING LANGUAGE/C/6. CONST.md",
+    "BOOM/PROGRAMMING/PROGRAMMING LANGUAGE/C/5. GLOBAL VARIABLES AND SCOPE.md",
+    "BOOM/PROGRAMMING/PROGRAMMING LANGUAGE/C/4. sizeof().md",
+    "BOOM/PROGRAMMING/PROGRAMMING LANGUAGE/C/2. Variables.md",
+    "BOOM/PROGRAMMING/PROGRAMMING LANGUAGE/C/1. Comments.md",
+    "BOOM/PROGRAMMING/PROGRAMMING LANGUAGE/C/11.sizeof() in C.md",
+    "BOOM/PROGRAMMING/PROGRAMMING LANGUAGE/C++/C++(learn.cpp)/0.4.md",
+    "BOOM/PROGRAMMING/PROGRAMMING LANGUAGE/C++/C++(learn.cpp)/0.5.md",
+    "BOOM/PROGRAMMING/PROGRAMMING LANGUAGE/C++/C++(learn.cpp)/0.3.md",
+    "BOOM/PROGRAMMING/PROGRAMMING LANGUAGE/C++/C++(learn.cpp)/0.2.md",
+    "BOOM/PROGRAMMING/PROGRAMMING LANGUAGE/C++/C++(learn.cpp)/0.1.md",
+    "BOOM/WEB DEV/CLONES/TWITTER/4. Handling POSTGET requests.md",
+    "BOOM/PROGRAMMING/PROGRAMMING LANGUAGE/JAVASCRIPT",
+    "BOOM/WEB DEV/NEXT JS/React Server Components.md",
+    "BOOM/WEB DEV/NEXT JS/Private folders.md",
+    "BOOM/HACKING/POC",
+    "BOOM/CompileSource-min.webp",
+    "Untitled 2.base",
+    "Untitled.base",
+    "Untitled.canvas",
+    "BOOM/HACKING/CTF-TIME",
+    "BOOM/HACKING/BUG BOUNTY/previous reports/Untitled",
+    "BOOM/AI/Papers/SOTA ( TASKS )/IMAGE CLASSIFICATION/VISION TRANSFORMER/2010.11929v2.pdf",
+    "BOOM/AI/Papers/SOTA ( TASKS )/IMAGE CLASSIFICATION/VISION TRANSFORMER/2010.11929.pdf",
+    "BOOM/AI/Papers/SOTA ( TASKS )/IMAGE CLASSIFICATION/VISION TRANSFORMER",
     "Pasted image 20260412134207.png",
-    "BOOM/HACKING/BUG BOUNTY/PORTSWIGGER ACADEMY/PATH TRAVERSAL.md",
-    "BOOM/HACKING/BUG BOUNTY/PORTSWIGGER ACADEMY/SERVER SIDE REQUEST FORGERY.md",
-    "BOOM/HACKING/BUG BOUNTY/PORTSWIGGER ACADEMY/CROSS-SITE REQUEST FORGERY.md",
-    "BOOM/HACKING/BUG BOUNTY/PORTSWIGGER ACADEMY/PROTOTYPE POLLUTION.md",
-    "BOOM/HACKING/BUG BOUNTY/PORTSWIGGER ACADEMY/SERVER-SIDE VURNABILITY.md",
     "Pasted image 20260412113326.png",
     "Pasted image 20260412113020.png",
     "Pasted image 20260412112730.png",
@@ -383,15 +422,6 @@
     "Pasted image 20260412112209.png",
     "Pasted image 20260412112117.png",
     "Pasted image 20260412111958.png",
-    "BOOM/WEB DEV/BACKEND/BACKEND FROM FIRST PRINCIPLES",
-    "BOOM/WEB DEV/BACKEND",
-    "BOOM/AI/BOOKS/NEURAL NETWORKS FROM SCRATCH",
-    "BOOM/AI/BOOKS",
-    "BOOM/PROGRAMMING/PROGRAMMING LANGUAGE/GO/Learning Go An Idiomatic Approach to Real-World Go Programming",
-    "BOOM/HACKING/REVERSE ENGINEERING/BOOKS/Understanding Assembly by Dennis",
-    "BOOM/HACKING/REVERSE ENGINEERING/BOOKS",
-    "Pasted image 20260401014823.png",
-    "Pasted image 20260331142931.png",
-    "Untitled.canvas"
+    "Pasted image 20260401014823.png"
   ]
 }
